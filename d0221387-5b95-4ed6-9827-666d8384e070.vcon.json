@@ -5,7 +5,7 @@
   "dialog": [
     {
       "alg": "SHA-512",
-      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/d0221387-5b95-4ed6-9827-666d8384e070.mp3",
+      "url": "https://github.com/strolid/example-vcons/raw/refs/heads/main/d0221387-5b95-4ed6-9827-666d8384e070.mp3",
       "meta": {
         "direction": "in",
         "disposition": "ANSWERED"
