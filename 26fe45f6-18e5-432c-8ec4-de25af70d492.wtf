@@ -1,0 +1,180 @@
+{
+  "type": "wtf_transcription",
+  "encoding": "json",
+  "dialog": 0,
+  "body": {
+    "transcript": {
+      "text": "Good morning! This is Stephen Harris from AquaPlumb Services. May I have your name, please? Yes, hello Stephen. My name is Margaret Brown. Thank you, Margaret. How can I assist you today? I'm feeling a bit nervous about a problem I have with the customer service I received. I'm sorry to hear that, Margaret. We want to make this right. Can I get your account number and the date of the service for our records? Sure, it's zero four two eight six two three one, and the service was on April twenty second. Thank you, Margaret. I have that information now. What exactly happened with the customer service that made you feel nervous? I was promised a service at a specified time, and it was delayed without any communication from your team. It really threw off my entire day. I understand how that can be upsetting, especially when you're not kept in the loop. I sincerely apologize for the inconvenience. I will personally look into this matter and ensure we improve our communication going forward. I appreciate that, Stephen. Thank you for taking this seriously. Of course, Margaret. Your satisfaction is our top priority. Is there anything else I can assist you with today? No, that's everything. I just hope the communication improves. Understood. We will make every effort to do better. Thank you for bringing this to our attention, and thank you for your time, Margaret. Have a great day! You too, Stephen. Goodbye.",
+      "language": "en-US",
+      "duration": 82.968,
+      "confidence": 0.95
+    },
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 5.366,
+        "text": "Good morning! This is Stephen Harris from AquaPlumb Services. May I have your name, please?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 1,
+        "start": 5.366,
+        "end": 8.079,
+        "text": "Yes, hello Stephen. My name is Margaret Brown.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 2,
+        "start": 8.079,
+        "end": 10.909,
+        "text": "Thank you, Margaret. How can I assist you today?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 3,
+        "start": 10.909,
+        "end": 15.98,
+        "text": "I'm feeling a bit nervous about a problem I have with the customer service I received.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 4,
+        "start": 15.98,
+        "end": 24.0,
+        "text": "I'm sorry to hear that, Margaret. We want to make this right. Can I get your account number and the date of the service for our records?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 5,
+        "start": 24.0,
+        "end": 29.484,
+        "text": "Sure, it's zero four two eight six two three one, and the service was on April twenty second.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 6,
+        "start": 29.484,
+        "end": 36.855,
+        "text": "Thank you, Margaret. I have that information now. What exactly happened with the customer service that made you feel nervous?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 7,
+        "start": 36.855,
+        "end": 45.17,
+        "text": "I was promised a service at a specified time, and it was delayed without any communication from your team. It really threw off my entire day.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 8,
+        "start": 45.17,
+        "end": 58.378,
+        "text": "I understand how that can be upsetting, especially when you're not kept in the loop. I sincerely apologize for the inconvenience. I will personally look into this matter and ensure we improve our communication going forward.",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 9,
+        "start": 58.378,
+        "end": 62.152,
+        "text": "I appreciate that, Stephen. Thank you for taking this seriously.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 10,
+        "start": 62.152,
+        "end": 68.698,
+        "text": "Of course, Margaret. Your satisfaction is our top priority. Is there anything else I can assist you with today?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 11,
+        "start": 68.698,
+        "end": 72.354,
+        "text": "No, that's everything. I just hope the communication improves.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 12,
+        "start": 72.354,
+        "end": 81.435,
+        "text": "Understood. We will make every effort to do better. Thank you for bringing this to our attention, and thank you for your time, Margaret. Have a great day!",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 13,
+        "start": 81.435,
+        "end": 82.968,
+        "text": "You too, Stephen. Goodbye.",
+        "confidence": 0.95,
+        "speaker": 1
+      }
+    ],
+    "metadata": {
+      "created_at": "2026-01-19T18:28:18.263607+00:00",
+      "processed_at": "2026-01-19T18:28:18.263607+00:00",
+      "provider": "vfun",
+      "model": "vcon-extracted",
+      "audio": {
+        "duration": 82.968,
+        "sample_rate": 16000,
+        "channels": 1,
+        "format": "mp3"
+      },
+      "source_vcon": "26fe45f6-18e5-432c-8ec4-de25af70d492"
+    },
+    "quality": {
+      "audio_quality": "high",
+      "multiple_speakers": true,
+      "overlapping_speech": false,
+      "average_confidence": 0.95,
+      "low_confidence_words": 0,
+      "processing_warnings": []
+    },
+    "speakers": {
+      "0": {
+        "id": 0,
+        "label": "Agent",
+        "segments": [
+          0,
+          2,
+          4,
+          6,
+          8,
+          10,
+          12
+        ],
+        "total_time": 52.422,
+        "confidence": 0.95
+      },
+      "1": {
+        "id": 1,
+        "label": "Customer",
+        "segments": [
+          1,
+          3,
+          5,
+          7,
+          9,
+          11,
+          13
+        ],
+        "total_time": 30.546,
+        "confidence": 0.95
+      }
+    }
+  }
+}

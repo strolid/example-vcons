@@ -1,0 +1,153 @@
+{
+  "type": "wtf_transcription",
+  "encoding": "json",
+  "dialog": 0,
+  "body": {
+    "transcript": {
+      "text": "Good afternoon! This is Henry Perez from Diamond Pawn Solutions. How may I assist you today? Hello, Henry. My name is Kimberly Edwards. I'm quite upset because there's a security issue I need to discuss. I'm sorry to hear that, Kimberly. We take security very seriously here. Could you please provide me with some details so I can better understand the situation? Yes, of course. I recently visited your store, and I noticed that my personal belongings were not securely stored. This is really concerning to me. I understand your concern, Kimberly. We want to ensure the safety of all our customers' belongings. To help resolve this, may I have your phone number and the date of your visit? Sure. My phone number is three nine four, five five two, one eight six seven. And I visited your store on the twenty-eighth of March. Thank you, Kimberly. I have noted down your details. We will investigate this issue immediately and get back to you with a resolution. Your security is our top priority. I appreciate that, Henry. I hope this gets resolved soon. I assure you, Kimberly, we will do our utmost to rectify this situation. Is there anything else I can assist you with today? No, that's everything for now. Thank you for your help, Henry. It's my pleasure, Kimberly. Thank you for bringing this issue to our attention. Have a great day!",
+      "language": "en-US",
+      "duration": 77.448,
+      "confidence": 0.95
+    },
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 5.365,
+        "text": "Good afternoon! This is Henry Perez from Diamond Pawn Solutions. How may I assist you today?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 1,
+        "start": 5.365,
+        "end": 11.78,
+        "text": "Hello, Henry. My name is Kimberly Edwards. I'm quite upset because there's a security issue I need to discuss.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 2,
+        "start": 11.78,
+        "end": 21.053,
+        "text": "I'm sorry to hear that, Kimberly. We take security very seriously here. Could you please provide me with some details so I can better understand the situation?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 3,
+        "start": 21.053,
+        "end": 29.626,
+        "text": "Yes, of course. I recently visited your store, and I noticed that my personal belongings were not securely stored. This is really concerning to me.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 4,
+        "start": 29.626,
+        "end": 40.007,
+        "text": "I understand your concern, Kimberly. We want to ensure the safety of all our customers' belongings. To help resolve this, may I have your phone number and the date of your visit?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 5,
+        "start": 40.007,
+        "end": 47.763,
+        "text": "Sure. My phone number is three nine four, five five two, one eight six seven. And I visited your store on the twenty-eighth of March.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 6,
+        "start": 47.763,
+        "end": 57.619,
+        "text": "Thank you, Kimberly. I have noted down your details. We will investigate this issue immediately and get back to you with a resolution. Your security is our top priority.",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 7,
+        "start": 57.619,
+        "end": 60.944,
+        "text": "I appreciate that, Henry. I hope this gets resolved soon.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 8,
+        "start": 60.944,
+        "end": 68.175,
+        "text": "I assure you, Kimberly, we will do our utmost to rectify this situation. Is there anything else I can assist you with today?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 9,
+        "start": 68.175,
+        "end": 71.791,
+        "text": "No, that's everything for now. Thank you for your help, Henry.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 10,
+        "start": 71.791,
+        "end": 77.448,
+        "text": "It's my pleasure, Kimberly. Thank you for bringing this issue to our attention. Have a great day!",
+        "confidence": 0.95,
+        "speaker": 0
+      }
+    ],
+    "metadata": {
+      "created_at": "2026-01-19T18:28:18.257325+00:00",
+      "processed_at": "2026-01-19T18:28:18.257325+00:00",
+      "provider": "vfun",
+      "model": "vcon-extracted",
+      "audio": {
+        "duration": 77.448,
+        "sample_rate": 16000,
+        "channels": 1,
+        "format": "mp3"
+      },
+      "source_vcon": "3c8b0a3d-4047-4951-a8ef-8e3a19b28234"
+    },
+    "quality": {
+      "audio_quality": "high",
+      "multiple_speakers": true,
+      "overlapping_speech": false,
+      "average_confidence": 0.95,
+      "low_confidence_words": 0,
+      "processing_warnings": []
+    },
+    "speakers": {
+      "0": {
+        "id": 0,
+        "label": "Agent",
+        "segments": [
+          0,
+          2,
+          4,
+          6,
+          8,
+          10
+        ],
+        "total_time": 47.763,
+        "confidence": 0.95
+      },
+      "1": {
+        "id": 1,
+        "label": "Customer",
+        "segments": [
+          1,
+          3,
+          5,
+          7,
+          9
+        ],
+        "total_time": 29.685,
+        "confidence": 0.95
+      }
+    }
+  }
+}

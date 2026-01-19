@@ -1,0 +1,171 @@
+{
+  "type": "wtf_transcription",
+  "encoding": "json",
+  "dialog": 0,
+  "body": {
+    "transcript": {
+      "text": "Hello! Thank you for contacting PixelPerfect Studios. My name is Jerry Hernandez. May I have your name, please? Hi Jerry, I'm Linda Ward. I'm calling about an issue I'm having with the shipping of an order. Nice to meet you, Linda. I'm sorry to hear you're having issues. Can you please provide me with your order number? Sure, it's P one two three four five. Thank you, Linda. I'll look up your order now. Also, for verification purposes, can I have the date of your birth? Yes, it's June sixth, one nine eight four. Perfect, thank you for that information. To help you better, could you please share the email address associated with this order? Of course, it\u2019s lward@example.com. Great, thanks Linda. I've located your order, and I'm seeing the issue. It appears there was a delay with the shipping company. I\u2019m going to expedite this and you'll receive your package within the next two days. That's wonderful to hear, Jerry! Thank you so much for your help. I'm feeling relieved. You're welcome, Linda! Is there anything else I can assist you with today? No, that's everything. Thank you, Jerry. My pleasure, Linda. Thank you for calling PixelPerfect Studios. Have a great day!",
+      "language": "en-US",
+      "duration": 69.936,
+      "confidence": 0.95
+    },
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 6.641,
+        "text": "Hello! Thank you for contacting PixelPerfect Studios. My name is Jerry Hernandez. May I have your name, please?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 1,
+        "start": 6.641,
+        "end": 12.264,
+        "text": "Hi Jerry, I'm Linda Ward. I'm calling about an issue I'm having with the shipping of an order.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 2,
+        "start": 12.264,
+        "end": 19.084,
+        "text": "Nice to meet you, Linda. I'm sorry to hear you're having issues. Can you please provide me with your order number?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 3,
+        "start": 19.084,
+        "end": 21.298,
+        "text": "Sure, it's P one two three four five.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 4,
+        "start": 21.298,
+        "end": 28.118,
+        "text": "Thank you, Linda. I'll look up your order now. Also, for verification purposes, can I have the date of your birth?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 5,
+        "start": 28.118,
+        "end": 30.631,
+        "text": "Yes, it's June sixth, one nine eight four.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 6,
+        "start": 30.631,
+        "end": 38.348,
+        "text": "Perfect, thank you for that information. To help you better, could you please share the email address associated with this order?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 7,
+        "start": 38.348,
+        "end": 40.382,
+        "text": "Of course, it\u2019s lward@example.com.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 8,
+        "start": 40.382,
+        "end": 53.065,
+        "text": "Great, thanks Linda. I've located your order, and I'm seeing the issue. It appears there was a delay with the shipping company. I\u2019m going to expedite this and you'll receive your package within the next two days.",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 9,
+        "start": 53.065,
+        "end": 58.27,
+        "text": "That's wonderful to hear, Jerry! Thank you so much for your help. I'm feeling relieved.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 10,
+        "start": 58.27,
+        "end": 62.697,
+        "text": "You're welcome, Linda! Is there anything else I can assist you with today?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 11,
+        "start": 62.697,
+        "end": 65.09,
+        "text": "No, that's everything. Thank you, Jerry.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 12,
+        "start": 65.09,
+        "end": 69.936,
+        "text": "My pleasure, Linda. Thank you for calling PixelPerfect Studios. Have a great day!",
+        "confidence": 0.95,
+        "speaker": 0
+      }
+    ],
+    "metadata": {
+      "created_at": "2026-01-19T18:28:18.256064+00:00",
+      "processed_at": "2026-01-19T18:28:18.256064+00:00",
+      "provider": "vfun",
+      "model": "vcon-extracted",
+      "audio": {
+        "duration": 69.936,
+        "sample_rate": 16000,
+        "channels": 1,
+        "format": "mp3"
+      },
+      "source_vcon": "4a3bafc4-f6e8-433a-8ff3-ec8b1007b077"
+    },
+    "quality": {
+      "audio_quality": "high",
+      "multiple_speakers": true,
+      "overlapping_speech": false,
+      "average_confidence": 0.95,
+      "low_confidence_words": 0,
+      "processing_warnings": []
+    },
+    "speakers": {
+      "0": {
+        "id": 0,
+        "label": "Agent",
+        "segments": [
+          0,
+          2,
+          4,
+          6,
+          8,
+          10,
+          12
+        ],
+        "total_time": 49.954,
+        "confidence": 0.95
+      },
+      "1": {
+        "id": 1,
+        "label": "Customer",
+        "segments": [
+          1,
+          3,
+          5,
+          7,
+          9,
+          11
+        ],
+        "total_time": 19.982,
+        "confidence": 0.95
+      }
+    }
+  }
+}

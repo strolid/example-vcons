@@ -1,0 +1,180 @@
+{
+  "type": "wtf_transcription",
+  "encoding": "json",
+  "dialog": 0,
+  "body": {
+    "transcript": {
+      "text": "Good morning! This is Jason Hayes from HealthGuard Pharmacy Support. How may I assist you today? Hi, I have a serious complaint about my privacy being violated. I'm really sorry to hear that, Marie. Protecting your privacy is a top priority for us. Can you first provide me with your full name and date of birth for verification purposes? It's Marie Baker, and my date of birth is April two, one nine nine zero. Thank you, Marie. I've got your details here. Now, can you please tell me more about the issue you're experiencing? My prescription details were discussed openly by your staff in the presence of other customers. I'm furious! I understand why you're upset, and I'm terribly sorry this happened. Confidentiality is crucial, and what occurred is unacceptable. I'm going to report this to our privacy team immediately. Can you remember the date and time this occurred? Yes, it was last Wednesday at around three PM. Thank you for this information. We'll investigate this as a matter of urgency. Rest assured, we will take the necessary steps to ensure this doesn't happen again. I'll personally keep you updated. Is there an email or phone number where we can reach you? Yes, my email is marie.baker@email.com, and my phone number is four two four, five five five, one two three four. Perfect, thank you for providing that, Marie. We'll be in touch with updates. I truly apologize once again for any distress this has caused. Thank you for bringing this to our attention. Is there anything else I can assist you with today? No, that's all for now. I just hope this is resolved quickly. Understood. We're on it, and we'll do our best to resolve this promptly. Thank you for your time and for reaching out to us, Marie. Have a good day!",
+      "language": "en-US",
+      "duration": 104.4,
+      "confidence": 0.95
+    },
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 5.797,
+        "text": "Good morning! This is Jason Hayes from HealthGuard Pharmacy Support. How may I assist you today?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 1,
+        "start": 5.797,
+        "end": 9.601,
+        "text": "Hi, I have a serious complaint about my privacy being violated.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 2,
+        "start": 9.601,
+        "end": 20.288,
+        "text": "I'm really sorry to hear that, Marie. Protecting your privacy is a top priority for us. Can you first provide me with your full name and date of birth for verification purposes?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 3,
+        "start": 20.288,
+        "end": 24.636,
+        "text": "It's Marie Baker, and my date of birth is April two, one nine nine zero.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 4,
+        "start": 24.636,
+        "end": 31.58,
+        "text": "Thank you, Marie. I've got your details here. Now, can you please tell me more about the issue you're experiencing?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 5,
+        "start": 31.58,
+        "end": 38.101,
+        "text": "My prescription details were discussed openly by your staff in the presence of other customers. I'm furious!",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 6,
+        "start": 38.101,
+        "end": 52.532,
+        "text": "I understand why you're upset, and I'm terribly sorry this happened. Confidentiality is crucial, and what occurred is unacceptable. I'm going to report this to our privacy team immediately. Can you remember the date and time this occurred?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 7,
+        "start": 52.532,
+        "end": 55.31,
+        "text": "Yes, it was last Wednesday at around three PM.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 8,
+        "start": 55.31,
+        "end": 70.647,
+        "text": "Thank you for this information. We'll investigate this as a matter of urgency. Rest assured, we will take the necessary steps to ensure this doesn't happen again. I'll personally keep you updated. Is there an email or phone number where we can reach you?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 9,
+        "start": 70.647,
+        "end": 77.47,
+        "text": "Yes, my email is marie.baker@email.com, and my phone number is four two four, five five five, one two three four.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 10,
+        "start": 77.47,
+        "end": 88.701,
+        "text": "Perfect, thank you for providing that, Marie. We'll be in touch with updates. I truly apologize once again for any distress this has caused. Thank you for bringing this to our attention.",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 11,
+        "start": 88.701,
+        "end": 91.78,
+        "text": "Is there anything else I can assist you with today?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 12,
+        "start": 91.78,
+        "end": 95.464,
+        "text": "No, that's all for now. I just hope this is resolved quickly.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 13,
+        "start": 95.464,
+        "end": 104.4,
+        "text": "Understood. We're on it, and we'll do our best to resolve this promptly. Thank you for your time and for reaching out to us, Marie. Have a good day!",
+        "confidence": 0.95,
+        "speaker": 0
+      }
+    ],
+    "metadata": {
+      "created_at": "2026-01-19T18:28:18.254517+00:00",
+      "processed_at": "2026-01-19T18:28:18.254517+00:00",
+      "provider": "vfun",
+      "model": "vcon-extracted",
+      "audio": {
+        "duration": 104.4,
+        "sample_rate": 16000,
+        "channels": 1,
+        "format": "mp3"
+      },
+      "source_vcon": "255c444c-bbad-41af-a38a-265f64c7c37a"
+    },
+    "quality": {
+      "audio_quality": "high",
+      "multiple_speakers": true,
+      "overlapping_speech": false,
+      "average_confidence": 0.95,
+      "low_confidence_words": 0,
+      "processing_warnings": []
+    },
+    "speakers": {
+      "0": {
+        "id": 0,
+        "label": "Agent",
+        "segments": [
+          0,
+          2,
+          4,
+          6,
+          8,
+          10,
+          11,
+          13
+        ],
+        "total_time": 76.442,
+        "confidence": 0.95
+      },
+      "1": {
+        "id": 1,
+        "label": "Customer",
+        "segments": [
+          1,
+          3,
+          5,
+          7,
+          9,
+          12
+        ],
+        "total_time": 27.958,
+        "confidence": 0.95
+      }
+    }
+  }
+}
