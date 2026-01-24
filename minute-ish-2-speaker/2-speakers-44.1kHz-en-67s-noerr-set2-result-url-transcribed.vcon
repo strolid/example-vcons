@@ -1,0 +1,22 @@
+{
+  "uuid": "ae21cb70-e4d1-4d7a-9515-05984331b8ee",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-44.1kHz-en-67s-noerr-set2.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good morning! This is Billy Gonzales from the DreamHome Real Estate Agency. May I have your name, please? Hi Billy, I'm Hannah King. I'm actually really excited to talk to you today. It's great to have you with us, Hannah! How can I assist you today? I have some concerns about privacy with my property listings. I just want to make sure my personal information is safe. I understand your concerns, Hannah. Ensuring your privacy is our top priority. Could I get your phone number and email address to verify your account? Of course, my phone number is four one five - five five five - one two three four. And my email is hannah.king@example.com. Thank you, Hannah. I have verified your account. Now, let's address your concerns about privacy. We have strong measures in place to protect your personal information. That sounds reassuring. I really appreciate your help with this. You're welcome! Is there anything else I can help you with today? No, that's everything. Thank you so much, Billy. It was my pleasure, Hannah. Thank you for reaching out to DreamHome Real Estate Agency. Have a great day!",
+          "language": "en-US",
+          "duration": 67.368
+        }
+      }
+    }
+  ]
+}

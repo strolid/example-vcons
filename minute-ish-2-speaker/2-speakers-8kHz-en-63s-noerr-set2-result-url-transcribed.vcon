@@ -1,0 +1,22 @@
+{
+  "uuid": "31cb6759-4726-438b-9d2e-7fe7657487da",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-8kHz-en-63s-noerr-set2.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good day! My name is Andrew Cooper, and I represent LightFrame Photography Studio. May I have your name, please? Hi there, I'm Jane Smith. It’s a pleasure to meet you, Jane. How can I assist you today? I'm feeling a bit disappointed about the pricing on my recent photo shoot. It seems there has been a mistake. I'm really sorry to hear that, Jane. To better assist you, could you provide me with your booking reference number? Sure, it's B F one two three four. Thank you, Jane. And for security purposes, can you also confirm your email address associated with this booking? Yes, it's jane.smith@email.com. Great, I have located your booking. I see where the pricing issue stems from. I'll work on resolving this for you right away. Thank you so much, Andrew. I appreciate your help. Absolutely, it's my pleasure to assist. We value your business and want to ensure you're completely satisfied. Is there anything else I can help with today? No, that's all. Thanks again! You're welcome, Jane! Thank you for your time and have a wonderful day. Goodbye!",
+          "language": "en-US",
+          "duration": 62.712
+        }
+      }
+    }
+  ]
+}

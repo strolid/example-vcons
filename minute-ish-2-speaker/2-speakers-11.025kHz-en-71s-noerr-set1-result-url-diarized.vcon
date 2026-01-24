@@ -1,0 +1,112 @@
+{
+  "uuid": "9f452ce1-9106-4ac2-9737-93f45ec4a209",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-11.025kHz-en-71s-noerr-set1.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good morning! You've reached Carter and Associates Law Firm. My name is Alan Sanchez. How may I assist you today? Hi, my name is Stephanie Garcia. I'm calling because there's an issue with my billing statement that I received. It's quite confusing. I'm sorry to hear that, Stephanie. I'll do my best to help clarify any confusion. Can I start by getting your account number, please? Sure, it's four seven eight nine two one three five. Thank you, Stephanie. I have your account pulled up now. For verification purposes, could you please provide your date of birth? Yes, it's January 12th, one nine eight six. Great, thanks for verifying that for me. Now, I see the issue with your billing statement. It seems there was a mistake in the coding of one of the charges. We'll correct this immediately. Is there an email address we can send the updated statement to? Yes, my email is StephanieG@email.com. Perfect, I've made a note of that. You should receive the updated statement within twenty four hours. Is there anything else I can help you with today? No, that was everything. Thank you for your help. You're welcome, Stephanie! And thank you for reaching out to us. Have a great day!",
+          "language": "en-US",
+          "duration": 70.968
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 6.825,
+            "text": "Good morning! You've reached Carter and Associates Law Firm. My name is Alan Sanchez. How may I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 6.825,
+            "end": 14.918,
+            "text": "Hi, my name is Stephanie Garcia. I'm calling because there's an issue with my billing statement that I received. It's quite confusing.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 14.918,
+            "end": 22.951,
+            "text": "I'm sorry to hear that, Stephanie. I'll do my best to help clarify any confusion. Can I start by getting your account number, please?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 22.951,
+            "end": 26.092,
+            "text": "Sure, it's four seven eight nine two one three five.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 26.092,
+            "end": 33.823,
+            "text": "Thank you, Stephanie. I have your account pulled up now. For verification purposes, could you please provide your date of birth?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 33.823,
+            "end": 36.42,
+            "text": "Yes, it's January 12th, one nine eight six.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 36.42,
+            "end": 51.641,
+            "text": "Great, thanks for verifying that for me. Now, I see the issue with your billing statement. It seems there was a mistake in the coding of one of the charges. We'll correct this immediately. Is there an email address we can send the updated statement to?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 51.641,
+            "end": 53.936,
+            "text": "Yes, my email is StephanieG@email.com.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 8,
+            "start": 53.936,
+            "end": 63.056,
+            "text": "Perfect, I've made a note of that. You should receive the updated statement within twenty four hours. Is there anything else I can help you with today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 9,
+            "start": 63.056,
+            "end": 66.015,
+            "text": "No, that was everything. Thank you for your help.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 10,
+            "start": 66.015,
+            "end": 70.968,
+            "text": "You're welcome, Stephanie! And thank you for reaching out to us. Have a great day!",
+            "confidence": 0.95,
+            "speaker": 0
+          }
+        ]
+      }
+    }
+  ]
+}

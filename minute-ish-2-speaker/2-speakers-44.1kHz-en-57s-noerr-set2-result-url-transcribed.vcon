@@ -1,0 +1,22 @@
+{
+  "uuid": "f2789cbb-d215-452d-b859-dc7461085a37",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-44.1kHz-en-57s-noerr-set2.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Hello! This is Tyler Hill from Happy Paws Veterinary Clinic. May I have your name, please? Hi, I'm Julie Stewart. Nice to meet you, Julie! How can I assist you today? I have a question about the pricing for a surgery that my pet needs. I'd be happy to help with that. Could I first get the breed and age of your pet, please? Sure, he's a Beagle and he's three years old. Thank you, Julie. And for our records, could you confirm your email address? Yes, it’s julie.stewart@email.com. Perfect, thanks! I'll look into the pricing for you now. One moment, please. Thank you! You're welcome! After checking, I've found the pricing details for the surgery your pet needs. Shall I email the details to you? Yes, please, that would be great. Great! I've sent it to your email. Is there anything else I can help you with today? No, that’s everything. Thank you for your help, Tyler. You’re very welcome, Julie! Thank you for reaching out to us. Have a lovely day!",
+          "language": "en-US",
+          "duration": 57.48
+        }
+      }
+    }
+  ]
+}

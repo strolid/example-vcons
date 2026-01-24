@@ -1,0 +1,120 @@
+{
+  "uuid": "9a752af2-ddf0-4eb8-91d6-3e79d2457284",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-44.1kHz-en-54s-noerr-set2.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good day! My name is Kyle Watson, and I'm here representing Acme Law Firm. Can I have your name, please? Hi, I'm Kelly Brooks. Nice to meet you, Kelly! How can I assist you today? I'm having an issue related to shipping, and it's making me a bit nervous. I understand, Kelly. To better assist you, may I have your account number and the tracking number of your shipment? Sure, my account number is zero nine five two and the tracking number is TV five eight seven six US. Thank you, Kelly. Give me a moment to look into this for you. I have checked the details and it seems there was a delay in the shipping process. We are addressing this issue and your package should be on its way shortly. Thank you, Kyle. I appreciate your help with this problem. You're welcome! Is there anything else I can help you with today? No, that'll be all, thank you. Thank you for your time, Kelly. Have a great day!",
+          "language": "en-US",
+          "duration": 53.544
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 6.278,
+            "text": "Good day! My name is Kyle Watson, and I'm here representing Acme Law Firm. Can I have your name, please?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 6.278,
+            "end": 7.546,
+            "text": "Hi, I'm Kelly Brooks.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 7.546,
+            "end": 10.685,
+            "text": "Nice to meet you, Kelly! How can I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 10.685,
+            "end": 15.152,
+            "text": "I'm having an issue related to shipping, and it's making me a bit nervous.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 15.152,
+            "end": 22.094,
+            "text": "I understand, Kelly. To better assist you, may I have your account number and the tracking number of your shipment?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 22.094,
+            "end": 28.13,
+            "text": "Sure, my account number is zero nine five two and the tracking number is TV five eight seven six US.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 28.13,
+            "end": 31.813,
+            "text": "Thank you, Kelly. Give me a moment to look into this for you.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 31.813,
+            "end": 41.35,
+            "text": "I have checked the details and it seems there was a delay in the shipping process. We are addressing this issue and your package should be on its way shortly.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 8,
+            "start": 41.35,
+            "end": 44.851,
+            "text": "Thank you, Kyle. I appreciate your help with this problem.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 9,
+            "start": 44.851,
+            "end": 48.775,
+            "text": "You're welcome! Is there anything else I can help you with today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 10,
+            "start": 48.775,
+            "end": 50.586,
+            "text": "No, that'll be all, thank you.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 11,
+            "start": 50.586,
+            "end": 53.544,
+            "text": "Thank you for your time, Kelly. Have a great day!",
+            "confidence": 0.95,
+            "speaker": 0
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "uuid": "17ff8328-3a85-457b-b8c4-db874ade4d58",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-8kHz-en-73s-noerr.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Hello! My name is Benjamin Russell, and I'm with Arcade Security Solutions. How can I assist you today? Hi, I'm Julia Murphy. I'm calling because I've run into a problem with my Arcade machine; it seems like a security issue, and I'm really confused about what to do. I'm sorry to hear that, Julia. Let's see how we can sort this out. Could you please provide me with your account number so I can pull up more details? Sure, it's nine zero one two three four. Thank you, Julia. And just to confirm, could I also get the serial number of your Arcade machine? Of course, it's ARfive six seven eight GX. Great, I've got that down. Now, can you describe the security issue you're experiencing in a bit more detail? Yes, whenever I try to log in, it says my credentials are invalid, but I haven't changed my password. And there's been several unauthorized attempts to access my account. Understood. It sounds like your account security may have been compromised. We'll take steps to secure your account and investigate further. I'll guide you through the process. Thank you, Benjamin. I appreciate the help. You're welcome, Julia. If there's anything else you need, just let me know. And thank you for contacting Arcade Security Solutions. Have a great day!",
+          "language": "en-US",
+          "duration": 73.104
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 6.063,
+            "text": "Hello! My name is Benjamin Russell, and I'm with Arcade Security Solutions. How can I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 6.063,
+            "end": 15.657,
+            "text": "Hi, I'm Julia Murphy. I'm calling because I've run into a problem with my Arcade machine; it seems like a security issue, and I'm really confused about what to do.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 15.657,
+            "end": 24.486,
+            "text": "I'm sorry to hear that, Julia. Let's see how we can sort this out. Could you please provide me with your account number so I can pull up more details?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 24.486,
+            "end": 26.84,
+            "text": "Sure, it's nine zero one two three four.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 26.84,
+            "end": 32.55,
+            "text": "Thank you, Julia. And just to confirm, could I also get the serial number of your Arcade machine?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 32.55,
+            "end": 35.022,
+            "text": "Of course, it's ARfive six seven eight GX.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 35.022,
+            "end": 41.437,
+            "text": "Great, I've got that down. Now, can you describe the security issue you're experiencing in a bit more detail?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 41.437,
+            "end": 51.444,
+            "text": "Yes, whenever I try to log in, it says my credentials are invalid, but I haven't changed my password. And there's been several unauthorized attempts to access my account.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 8,
+            "start": 51.444,
+            "end": 61.803,
+            "text": "Understood. It sounds like your account security may have been compromised. We'll take steps to secure your account and investigate further. I'll guide you through the process.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 9,
+            "start": 61.803,
+            "end": 64.334,
+            "text": "Thank you, Benjamin. I appreciate the help.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 10,
+            "start": 64.334,
+            "end": 73.104,
+            "text": "You're welcome, Julia. If there's anything else you need, just let me know. And thank you for contacting Arcade Security Solutions. Have a great day!",
+            "confidence": 0.95,
+            "speaker": 0
+          }
+        ]
+      }
+    }
+  ]
+}

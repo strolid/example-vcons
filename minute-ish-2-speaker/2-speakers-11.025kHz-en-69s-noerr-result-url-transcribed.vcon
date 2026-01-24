@@ -1,0 +1,22 @@
+{
+  "uuid": "d15376d0-2958-4510-bbd0-964d4e22bb28",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-11.025kHz-en-69s-noerr.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good day! This is Andrew Young from Acme Accounting Firm. How may I assist you today? Hi Andrew, I'm Elizabeth Garcia. I'm having some problems with my inventory records, and it's really confusing me. I'm sorry to hear that, Elizabeth. I'll do my best to help you sort this out. To start, can you provide me with your account number? Sure, my account number is five five four two eight nine. Thank you, Elizabeth. Also, for verification purposes, could you tell me the last four digits of your Tax ID? Yes, it's nine zero one two. Great, thank you for providing that. Let's dive into your inventory records and see what's going on. Please give me a moment to review your account. Thank you, Andrew. I really appreciate your help. Of course, Elizabeth. I can see where the confusion is coming from. There's a discrepancy in your inventory logs that we'll need to correct. I'll guide you through the process. That sounds great. Thank you for making this easy to understand. It's my pleasure, Elizabeth. Is there anything else I can help you with today? That's all for now. Thanks again, Andrew. You're welcome, Elizabeth. Thank you for contacting Acme Accounting Firm. Have a great day!",
+          "language": "en-US",
+          "duration": 68.832
+        }
+      }
+    }
+  ]
+}

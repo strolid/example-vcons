@@ -1,0 +1,112 @@
+{
+  "uuid": "19d7f4b1-1b5e-48ce-b172-fec0285db3ce",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-11.025kHz-en-95s-noerr.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Hello! Welcome to CrystalClear Productions. My name is Matthew Nelson. How may I assist you today? Hi, my name is Tiffany Powell. I'm really nervous because the video quality I received for my project isn't what I was expecting. I'm really sorry to hear that, Tiffany. We aim for nothing less than top quality, so I'll do my best to resolve this issue for you. Could you provide me with your order number and the date you placed the order? Sure, the order number is FIVE TWO EIGHT SIX, and I placed the order on March first. Thank you, Tiffany. Let me look up your order details... Meanwhile, could you describe the specific problem you're facing with the video quality? Yes, the video is quite blurry and the colors are not vibrant at all. It looks like it was shot with a very low-quality camera. I understand your concern, and I apologize for the inconvenience. We usually perform several quality checks before delivering. I'll investigate this issue immediately. While I do that, for verification purposes, could you also provide your email address associated with this order? Of course, it's tiffany.powell@email.com. Thank you, Tiffany. I’ll start working on resolving the issue right away and will get back to you with a solution as soon as possible. In the meantime, is there anything else I can assist you with? No, that would be all. Thank you for your assistance, Matthew. You're welcome, Tiffany. Thank you for bringing this to our attention. I apologize once again for any inconvenience caused. We'll make sure to get this sorted out for you promptly. Have a great day!",
+          "language": "en-US",
+          "duration": 95.256
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 5.938,
+            "text": "Hello! Welcome to CrystalClear Productions. My name is Matthew Nelson. How may I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 5.938,
+            "end": 13.755,
+            "text": "Hi, my name is Tiffany Powell. I'm really nervous because the video quality I received for my project isn't what I was expecting.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 13.755,
+            "end": 26.48,
+            "text": "I'm really sorry to hear that, Tiffany. We aim for nothing less than top quality, so I'll do my best to resolve this issue for you. Could you provide me with your order number and the date you placed the order?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 26.48,
+            "end": 31.57,
+            "text": "Sure, the order number is FIVE TWO EIGHT SIX, and I placed the order on March first.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 31.57,
+            "end": 40.357,
+            "text": "Thank you, Tiffany. Let me look up your order details... Meanwhile, could you describe the specific problem you're facing with the video quality?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 40.357,
+            "end": 48.052,
+            "text": "Yes, the video is quite blurry and the colors are not vibrant at all. It looks like it was shot with a very low-quality camera.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 48.052,
+            "end": 65.079,
+            "text": "I understand your concern, and I apologize for the inconvenience. We usually perform several quality checks before delivering. I'll investigate this issue immediately. While I do that, for verification purposes, could you also provide your email address associated with this order?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 65.079,
+            "end": 67.564,
+            "text": "Of course, it's tiffany.powell@email.com.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 8,
+            "start": 67.564,
+            "end": 79.501,
+            "text": "Thank you, Tiffany. I’ll start working on resolving the issue right away and will get back to you with a solution as soon as possible. In the meantime, is there anything else I can assist you with?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 9,
+            "start": 79.501,
+            "end": 83.258,
+            "text": "No, that would be all. Thank you for your assistance, Matthew.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 10,
+            "start": 83.258,
+            "end": 95.256,
+            "text": "You're welcome, Tiffany. Thank you for bringing this to our attention. I apologize once again for any inconvenience caused. We'll make sure to get this sorted out for you promptly. Have a great day!",
+            "confidence": 0.95,
+            "speaker": 0
+          }
+        ]
+      }
+    }
+  ]
+}

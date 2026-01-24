@@ -1,0 +1,112 @@
+{
+  "uuid": "1ba06c0c-97ea-439f-8691-717ef86e4f3e",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-8kHz-en-65s-noerr.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Hello! My name is Michael Henderson, and I'm with Rhythm & Notes Music Store. May I have your name, please? Oh, hi! Yes, my name is Martha Lee. Thank you, Martha! How can I assist you today? Well, I've encountered an issue. It seems like some of my purchase history is missing from my online account. I'm quite surprised; I thought these things were automated. I understand how that can be surprising, Martha. To better assist you, may I have two pieces of personal information: your email address and the last four digits of your phone number? Sure. My email is martha.lee@example.com, and the last four digits are one two three four. Thank you for providing that, Martha. It will help us identify the issue with your account. I will look into this problem right away. Thank you, Michael. I appreciate your help. It's my pleasure, Martha. We’ll make sure to update you as soon as we've fixed the issue. Is there anything else I can help you with today? No, that will be all for now. Thank you. You're welcome, Martha! Thank you for your time and for contacting Rhythm & Notes Music Store. Have a great day!",
+          "language": "en-US",
+          "duration": 65.088
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 6.349,
+            "text": "Hello! My name is Michael Henderson, and I'm with Rhythm & Notes Music Store. May I have your name, please?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 6.349,
+            "end": 8.425,
+            "text": "Oh, hi! Yes, my name is Martha Lee.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 8.425,
+            "end": 11.155,
+            "text": "Thank you, Martha! How can I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 11.155,
+            "end": 21.182,
+            "text": "Well, I've encountered an issue. It seems like some of my purchase history is missing from my online account. I'm quite surprised; I thought these things were automated.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 21.182,
+            "end": 32.04,
+            "text": "I understand how that can be surprising, Martha. To better assist you, may I have two pieces of personal information: your email address and the last four digits of your phone number?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 32.04,
+            "end": 37.38,
+            "text": "Sure. My email is martha.lee@example.com, and the last four digits are one two three four.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 37.38,
+            "end": 45.271,
+            "text": "Thank you for providing that, Martha. It will help us identify the issue with your account. I will look into this problem right away.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 45.271,
+            "end": 47.822,
+            "text": "Thank you, Michael. I appreciate your help.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 8,
+            "start": 47.822,
+            "end": 56.069,
+            "text": "It's my pleasure, Martha. We’ll make sure to update you as soon as we've fixed the issue. Is there anything else I can help you with today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 9,
+            "start": 56.069,
+            "end": 58.443,
+            "text": "No, that will be all for now. Thank you.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 10,
+            "start": 58.443,
+            "end": 65.088,
+            "text": "You're welcome, Martha! Thank you for your time and for contacting Rhythm & Notes Music Store. Have a great day!",
+            "confidence": 0.95,
+            "speaker": 0
+          }
+        ]
+      }
+    }
+  ]
+}

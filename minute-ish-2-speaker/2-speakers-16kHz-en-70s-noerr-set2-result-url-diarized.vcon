@@ -1,0 +1,152 @@
+{
+  "uuid": "9fdda37a-5719-44d1-8a19-e10088833f42",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-16kHz-en-70s-noerr-set2.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good morning! My name is Jose Kelly and I am with the Shoe Repair Service Customer Support. May I have your name, please? Yes, hello. My name is Christina Baker. Thank you, Christina. How can I assist you today? I had an issue with the customer service I received yesterday, and I'm feeling quite nervous about it. I'm very sorry to hear that you're feeling this way, Christina. To better assist you, could I get your order number, please? Sure, it's one two three four five six seven. Thank you. And for verification purposes, could you please provide your date of birth? Yes, it's April twenty-third, one nine eight zero. Thank you for providing that, Christina. Let me look into your query right away. Thank you, I really appreciate it. Of course! I'm here to help. I'll do my best to resolve your problem. It looks like I was able to identify the issue. We will rectify this immediately. That's great to hear. Thank you so much for your help, Jose. You're very welcome, Christina. Thank you for bringing this to our attention. If there's anything else I can do for you, please don't hesitate to ask. Will do. Have a great day! Thank you, Christina. You as well! Have a wonderful day and take care.",
+          "language": "en-US",
+          "duration": 69.816
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 7.123,
+            "text": "Good morning! My name is Jose Kelly and I am with the Shoe Repair Service Customer Support. May I have your name, please?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 7.123,
+            "end": 9.419,
+            "text": "Yes, hello. My name is Christina Baker.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 9.419,
+            "end": 12.303,
+            "text": "Thank you, Christina. How can I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 12.303,
+            "end": 18.308,
+            "text": "I had an issue with the customer service I received yesterday, and I'm feeling quite nervous about it.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 18.308,
+            "end": 25.607,
+            "text": "I'm very sorry to hear that you're feeling this way, Christina. To better assist you, could I get your order number, please?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 25.607,
+            "end": 28.256,
+            "text": "Sure, it's one two three four five six seven.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 28.256,
+            "end": 33.319,
+            "text": "Thank you. And for verification purposes, could you please provide your date of birth?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 33.319,
+            "end": 36.262,
+            "text": "Yes, it's April twenty-third, one nine eight zero.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 8,
+            "start": 36.262,
+            "end": 40.971,
+            "text": "Thank you for providing that, Christina. Let me look into your query right away.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 9,
+            "start": 40.971,
+            "end": 42.973,
+            "text": "Thank you, I really appreciate it.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 10,
+            "start": 42.973,
+            "end": 47.035,
+            "text": "Of course! I'm here to help. I'll do my best to resolve your problem.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 11,
+            "start": 47.035,
+            "end": 51.803,
+            "text": "It looks like I was able to identify the issue. We will rectify this immediately.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 12,
+            "start": 51.803,
+            "end": 55.335,
+            "text": "That's great to hear. Thank you so much for your help, Jose.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 13,
+            "start": 55.335,
+            "end": 64.165,
+            "text": "You're very welcome, Christina. Thank you for bringing this to our attention. If there's anything else I can do for you, please don't hesitate to ask.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 14,
+            "start": 64.165,
+            "end": 65.695,
+            "text": "Will do. Have a great day!",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 15,
+            "start": 65.695,
+            "end": 69.816,
+            "text": "Thank you, Christina. You as well! Have a wonderful day and take care.",
+            "confidence": 0.95,
+            "speaker": 0
+          }
+        ]
+      }
+    }
+  ]
+}

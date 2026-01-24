@@ -1,0 +1,120 @@
+{
+  "uuid": "3043c106-f532-4768-ac29-158b8ede286c",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-12kHz-en-82s-noerr.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good morning! My name is Kenneth Carter, and I am with Prestige Footwear. How may I assist you today? Hello Kenneth, my name is Theresa Howard. I'm really angry because there's been a problem related to privacy with my recent purchase. I'm really sorry to hear that, Theresa. Protecting our customer's privacy is a top priority for us. Could you please provide me with some more details regarding this issue? Yes, I noticed that my personal details were not properly secured on your website after making a purchase. It's very concerning. Understood, and I apologize for any distress this has caused. For documentation purposes, could you let me know your email address associated with the purchase? Sure, it's theresa.howard@example.com. Thank you, Theresa. And for further verification, could you also provide the last four digits of the phone number you used for this purchase? It's nine three seven two. Great, thank you for providing that information. I will forward this to our security team immediately so they can investigate and ensure this won't happen again. Is there anything else I can help you with today? No, that will be all. I just hope this gets resolved quickly. I understand, and we'll do everything we can to rectify this situation. Thank you for bringing this to our attention, Theresa. I appreciate your time and patience. If you have any more concerns, feel free to contact us. Have a wonderful day!",
+          "language": "en-US",
+          "duration": 82.416
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 5.899,
+            "text": "Good morning! My name is Kenneth Carter, and I am with Prestige Footwear. How may I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 5.899,
+            "end": 13.668,
+            "text": "Hello Kenneth, my name is Theresa Howard. I'm really angry because there's been a problem related to privacy with my recent purchase.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 13.668,
+            "end": 23.714,
+            "text": "I'm really sorry to hear that, Theresa. Protecting our customer's privacy is a top priority for us. Could you please provide me with some more details regarding this issue?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 23.714,
+            "end": 31.191,
+            "text": "Yes, I noticed that my personal details were not properly secured on your website after making a purchase. It's very concerning.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 31.191,
+            "end": 40.536,
+            "text": "Understood, and I apologize for any distress this has caused. For documentation purposes, could you let me know your email address associated with the purchase?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 40.536,
+            "end": 42.756,
+            "text": "Sure, it's theresa.howard@example.com.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 42.756,
+            "end": 50.992,
+            "text": "Thank you, Theresa. And for further verification, could you also provide the last four digits of the phone number you used for this purchase?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 50.992,
+            "end": 52.51,
+            "text": "It's nine three seven two.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 8,
+            "start": 52.51,
+            "end": 64.835,
+            "text": "Great, thank you for providing that information. I will forward this to our security team immediately so they can investigate and ensure this won't happen again. Is there anything else I can help you with today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 9,
+            "start": 64.835,
+            "end": 68.398,
+            "text": "No, that will be all. I just hope this gets resolved quickly.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 10,
+            "start": 68.398,
+            "end": 77.918,
+            "text": "I understand, and we'll do everything we can to rectify this situation. Thank you for bringing this to our attention, Theresa. I appreciate your time and patience.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 11,
+            "start": 77.918,
+            "end": 82.416,
+            "text": "If you have any more concerns, feel free to contact us. Have a wonderful day!",
+            "confidence": 0.95,
+            "speaker": 0
+          }
+        ]
+      }
+    }
+  ]
+}

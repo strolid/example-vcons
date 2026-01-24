@@ -1,0 +1,128 @@
+{
+  "uuid": "67cf575c-f99c-43f2-92d1-e30f1c372bed",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-12kHz-en-79s-noerr-set2.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good afternoon, my name is Harold Robinson, and I am with Prestige Furniture Store. May I have your name, please? Yes, hello. My name is Cynthia Murphy. Hello, Ms. Murphy. How can I assist you today? I'm a bit nervous. I received a message that there was a security issue with the payment method I used for my last purchase. I understand your concern, Cynthia. For your security, can you please provide the last four digits of the payment card you used? Sure, it's one two three four. Thank you. And just for verification, what is the billing zip code associated with this card? It's nine zero zero one seven. Thank you for that information, Cynthia. I'll look into this issue immediately. In the meantime, could you tell me more about what makes you feel nervous? Mainly, I'm worried about unauthorized charges and how this might affect my personal information security. I can assure you that we take these matters very seriously. I'll personally ensure that your details are safe and inform you about the steps we're taking to secure your information. Thank you, Harold. I appreciate your help. You're welcome, Cynthia. It's our priority to make sure you feel supported and safe. Thank you for your time today, and please don't hesitate to contact us if you have any more questions or concerns. Have a great day!",
+          "language": "en-US",
+          "duration": 78.648
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 6.826,
+            "text": "Good afternoon, my name is Harold Robinson, and I am with Prestige Furniture Store. May I have your name, please?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 6.826,
+            "end": 9.121,
+            "text": "Yes, hello. My name is Cynthia Murphy.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 9.121,
+            "end": 11.9,
+            "text": "Hello, Ms. Murphy. How can I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 11.9,
+            "end": 19.39,
+            "text": "I'm a bit nervous. I received a message that there was a security issue with the payment method I used for my last purchase.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 19.39,
+            "end": 27.122,
+            "text": "I understand your concern, Cynthia. For your security, can you please provide the last four digits of the payment card you used?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 27.122,
+            "end": 28.934,
+            "text": "Sure, it's one two three four.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 28.934,
+            "end": 34.552,
+            "text": "Thank you. And just for verification, what is the billing zip code associated with this card?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 34.552,
+            "end": 36.364,
+            "text": "It's nine zero zero one seven.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 8,
+            "start": 36.364,
+            "end": 45.667,
+            "text": "Thank you for that information, Cynthia. I'll look into this issue immediately. In the meantime, could you tell me more about what makes you feel nervous?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 9,
+            "start": 45.667,
+            "end": 52.07,
+            "text": "Mainly, I'm worried about unauthorized charges and how this might affect my personal information security.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 10,
+            "start": 52.07,
+            "end": 63.003,
+            "text": "I can assure you that we take these matters very seriously. I'll personally ensure that your details are safe and inform you about the steps we're taking to secure your information.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 11,
+            "start": 63.003,
+            "end": 65.54,
+            "text": "Thank you, Harold. I appreciate your help.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 12,
+            "start": 65.54,
+            "end": 78.648,
+            "text": "You're welcome, Cynthia. It's our priority to make sure you feel supported and safe. Thank you for your time today, and please don't hesitate to contact us if you have any more questions or concerns. Have a great day!",
+            "confidence": 0.95,
+            "speaker": 0
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "uuid": "19fc2df9-d3cb-423d-a285-467976a6b17c",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-44.1kHz-en-79s-noerr-set1.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good morning! This is Ryan Torres from Majestic Furniture Solutions. How can I assist you today? Hi, I'm Barbara Hill. I've been waiting for my couch to be delivered for over three weeks now, and it's still not here. I'm very frustrated. I understand your concern, Barbara. Let me apologize for the delay and any inconvenience it has caused you. Can I get your order number and the date of purchase, please, to look into this issue? Certainly. The order number is A123BC456 and I purchased it on the fifth of June. Thank you, Barbara. Give me a moment to check the details of your shipping status. I’ve checked the details, and it seems there was a mix-up with the shipping company. We will resolve this issue and ensure your couch is delivered by the end of this week. Thank you, Ryan. I just want to make sure I'm not going to be charged for the shipping due to this delay. I assure you, Barbara, you will not be charged for the shipping. We will take care of all the necessary adjustments. I appreciate that, Ryan. Thank you for your help. You're welcome, Barbara. Is there anything else I can assist you with today? No, that's it. Thank you for resolving this so quickly. It's my pleasure. Thank you for calling Majestic Furniture Solutions. Have a great day, Barbara! You too, Ryan. Goodbye.",
+          "language": "en-US",
+          "duration": 79.08
+        }
+      }
+    }
+  ]
+}

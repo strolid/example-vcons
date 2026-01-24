@@ -1,0 +1,22 @@
+{
+  "uuid": "f446170e-5276-4b3d-aaa1-9a1413a32993",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-8kHz-en-60s-noerr-set1.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Hello, this is Charles Ward from GiggleBox Comedy Club. How may I assist you today? Hi, I'm having an issue with a return. I'm not sure how to proceed. I'd be happy to help with that, Frances. Could I get your last name, please? Sure, it's Patterson. Thank you, Ms. Patterson. Can I also have your email address to look up your account details? Yes, it's frances.patterson@email.com. Got it. To confirm, you're looking to return tickets, is that correct? Yes, that's right. I'm just feeling a bit nervous about the whole process. I understand, Frances. No need to worry. We'll make this as smooth as possible for you. I'll just need the order number. Okay, it's one zero zero two. Thank you for being so patient. You're welcome, and thank you for providing that information. I'll initiate the return now. Is there anything else I can assist you with? No, that's everything. Thank you for your help, Charles. It's my pleasure, Frances. Thank you for calling GiggleBox Comedy Club. Have a great day!",
+          "language": "en-US",
+          "duration": 59.664
+        }
+      }
+    }
+  ]
+}

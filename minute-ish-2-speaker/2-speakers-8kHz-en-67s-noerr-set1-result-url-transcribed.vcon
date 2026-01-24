@@ -1,0 +1,22 @@
+{
+  "uuid": "4cba5c04-e92b-4839-9559-c9a8c4b89663",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-8kHz-en-67s-noerr-set1.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good day! This is Frank Rogers from Stellar Movie Theaters. How may I assist you today? Hi! I'm having an issue with the pricing of the tickets I purchased online. They seem to be higher than advertised. I'm sorry to hear that you're experiencing issues with our pricing. Before we proceed, may I have your name, please? Sure, my name is Marilyn Barnes. Thank you, Marilyn. For security purposes, could you provide me with your date of birth and the last four digits of the card used for the purchase? Yes, my date of birth is June 15, one nine eight six, and the last four digits are zero zero three nine. Great, thanks for that information. Allow me a moment to look into the pricing issue for you. It appears there was a glitch in our system, and you were overcharged. We'll issue a refund for the difference right away. Is there anything else I can help you with? No, that resolves my issue. Thank you for your quick assistance, I'm quite happy with the resolution! You're welcome, Marilyn! It was my pleasure to assist you. Thank you for choosing Stellar Movie Theaters. Have a great day!",
+          "language": "en-US",
+          "duration": 67.44
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "uuid": "9fdda37a-5719-44d1-8a19-e10088833f42",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-11.025kHz-en-70s-noerr-set2.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good morning! My name is Jose Kelly and I am with the Shoe Repair Service Customer Support. May I have your name, please? Yes, hello. My name is Christina Baker. Thank you, Christina. How can I assist you today? I had an issue with the customer service I received yesterday, and I'm feeling quite nervous about it. I'm very sorry to hear that you're feeling this way, Christina. To better assist you, could I get your order number, please? Sure, it's one two three four five six seven. Thank you. And for verification purposes, could you please provide your date of birth? Yes, it's April twenty-third, one nine eight zero. Thank you for providing that, Christina. Let me look into your query right away. Thank you, I really appreciate it. Of course! I'm here to help. I'll do my best to resolve your problem. It looks like I was able to identify the issue. We will rectify this immediately. That's great to hear. Thank you so much for your help, Jose. You're very welcome, Christina. Thank you for bringing this to our attention. If there's anything else I can do for you, please don't hesitate to ask. Will do. Have a great day! Thank you, Christina. You as well! Have a wonderful day and take care.",
+          "language": "en-US",
+          "duration": 69.816
+        }
+      }
+    }
+  ]
+}

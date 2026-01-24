@@ -1,0 +1,22 @@
+{
+  "uuid": "1ba06c0c-97ea-439f-8691-717ef86e4f3e",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-11.025kHz-en-65s-noerr.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Hello! My name is Michael Henderson, and I'm with Rhythm & Notes Music Store. May I have your name, please? Oh, hi! Yes, my name is Martha Lee. Thank you, Martha! How can I assist you today? Well, I've encountered an issue. It seems like some of my purchase history is missing from my online account. I'm quite surprised; I thought these things were automated. I understand how that can be surprising, Martha. To better assist you, may I have two pieces of personal information: your email address and the last four digits of your phone number? Sure. My email is martha.lee@example.com, and the last four digits are one two three four. Thank you for providing that, Martha. It will help us identify the issue with your account. I will look into this problem right away. Thank you, Michael. I appreciate your help. It's my pleasure, Martha. We’ll make sure to update you as soon as we've fixed the issue. Is there anything else I can help you with today? No, that will be all for now. Thank you. You're welcome, Martha! Thank you for your time and for contacting Rhythm & Notes Music Store. Have a great day!",
+          "language": "en-US",
+          "duration": 65.088
+        }
+      }
+    }
+  ]
+}

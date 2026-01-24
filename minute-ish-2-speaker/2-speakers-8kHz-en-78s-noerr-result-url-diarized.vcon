@@ -1,0 +1,112 @@
+{
+  "uuid": "d0221387-5b95-4ed6-9827-666d8384e070",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-8kHz-en-78s-noerr.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good morning! This is Kenneth Alexander from Harmony Music School. May I have your name, please? Yes, hi, I'm Michelle Simmons. Hello Michelle! How can I assist you today? I'm a bit nervous to mention this, but I've had some issues with the product quality of the lessons I received. I understand your concern, Michelle. We aim for the highest quality in our lessons. Could you provide me with two pieces of personal information for verification purposes, please? Your birth date and your enrollment number. Sure, my birth date is April 2nd, one nine eight six, and my enrollment number is S one two three four five. Thank you, Michelle. I have pulled up your records. We take issues with product quality very seriously. I will personally ensure that we get to the bottom of this. Is there anything specific you can tell me about the issue? Well, it seems that the practical sessions aren't as interactive and engaging as promised. I'm sorry to hear that. Rest assured, we will take the necessary steps to address this issue. We value your feedback and are committed to improvement. Thank you, Kenneth. I appreciate your help. It's my pleasure, Michelle. Thank you for bringing this to our attention. We will be in touch with a solution soon. Thank you for your time, and have a great day!",
+          "language": "en-US",
+          "duration": 78.072
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 5.86,
+            "text": "Good morning! This is Kenneth Alexander from Harmony Music School. May I have your name, please?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 5.86,
+            "end": 7.691,
+            "text": "Yes, hi, I'm Michelle Simmons.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 7.691,
+            "end": 10.316,
+            "text": "Hello Michelle! How can I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 10.316,
+            "end": 17.092,
+            "text": "I'm a bit nervous to mention this, but I've had some issues with the product quality of the lessons I received.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 17.092,
+            "end": 30.704,
+            "text": "I understand your concern, Michelle. We aim for the highest quality in our lessons. Could you provide me with two pieces of personal information for verification purposes, please? Your birth date and your enrollment number.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 30.704,
+            "end": 37.296,
+            "text": "Sure, my birth date is April 2nd, one nine eight six, and my enrollment number is S one two three four five.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 37.296,
+            "end": 50.909,
+            "text": "Thank you, Michelle. I have pulled up your records. We take issues with product quality very seriously. I will personally ensure that we get to the bottom of this. Is there anything specific you can tell me about the issue?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 50.909,
+            "end": 56.402,
+            "text": "Well, it seems that the practical sessions aren't as interactive and engaging as promised.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 8,
+            "start": 56.402,
+            "end": 65.559,
+            "text": "I'm sorry to hear that. Rest assured, we will take the necessary steps to address this issue. We value your feedback and are committed to improvement.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 9,
+            "start": 65.559,
+            "end": 68.183,
+            "text": "Thank you, Kenneth. I appreciate your help.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 10,
+            "start": 68.183,
+            "end": 78.072,
+            "text": "It's my pleasure, Michelle. Thank you for bringing this to our attention. We will be in touch with a solution soon. Thank you for your time, and have a great day!",
+            "confidence": 0.95,
+            "speaker": 0
+          }
+        ]
+      }
+    }
+  ]
+}

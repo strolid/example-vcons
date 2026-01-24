@@ -1,0 +1,104 @@
+{
+  "uuid": "be63c4e3-7b58-4a77-bdbe-ba3693505ef9",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-12kHz-en-76s-noerr-set2.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Hello, my name is Gary Adams, and I'm with the Construction Company's customer service team. How may I assist you today? Hi Gary, this is Rachel Robinson. I'm feeling really nervous about an issue I'm facing. I'm sorry to hear that, Rachel. Can you provide me with some more details about the problem? Yes, it's about a delay in the construction schedule. It's causing me a lot of stress. I understand how delays can be frustrating. Could I get two pieces of personal information to better assist you? May I have your account number and the project address, please? Sure, my account number is one two three four five, and the project address is one hundred two Baker Street. Thank you, Rachel. Let me look into your project details using the information provided. One moment, please. I have reviewed your project, and it seems there was an unexpected delay due to supply chain issues. We're actively working on a solution, and I'll ensure you're updated regularly. Is there anything else I can do for you today? No, that's all. I appreciate your help in clarifying the situation, Gary. Thank you. You're welcome, Rachel. We're here to help, and I apologize for any inconvenience this has caused. Thank you for your time and patience. Have a great day!",
+          "language": "en-US",
+          "duration": 76.248
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 7.367,
+            "text": "Hello, my name is Gary Adams, and I'm with the Construction Company's customer service team. How may I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 7.367,
+            "end": 12.708,
+            "text": "Hi Gary, this is Rachel Robinson. I'm feeling really nervous about an issue I'm facing.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 12.708,
+            "end": 18.356,
+            "text": "I'm sorry to hear that, Rachel. Can you provide me with some more details about the problem?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 18.356,
+            "end": 23.636,
+            "text": "Yes, it's about a delay in the construction schedule. It's causing me a lot of stress.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 23.636,
+            "end": 34.441,
+            "text": "I understand how delays can be frustrating. Could I get two pieces of personal information to better assist you? May I have your account number and the project address, please?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 34.441,
+            "end": 41.071,
+            "text": "Sure, my account number is one two three four five, and the project address is one hundred two Baker Street.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 41.071,
+            "end": 47.701,
+            "text": "Thank you, Rachel. Let me look into your project details using the information provided. One moment, please.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 47.701,
+            "end": 61.637,
+            "text": "I have reviewed your project, and it seems there was an unexpected delay due to supply chain issues. We're actively working on a solution, and I'll ensure you're updated regularly. Is there anything else I can do for you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 8,
+            "start": 61.637,
+            "end": 66.794,
+            "text": "No, that's all. I appreciate your help in clarifying the situation, Gary. Thank you.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 9,
+            "start": 66.794,
+            "end": 76.248,
+            "text": "You're welcome, Rachel. We're here to help, and I apologize for any inconvenience this has caused. Thank you for your time and patience. Have a great day!",
+            "confidence": 0.95,
+            "speaker": 0
+          }
+        ]
+      }
+    }
+  ]
+}

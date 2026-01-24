@@ -1,0 +1,22 @@
+{
+  "uuid": "68f77313-76d0-45fe-b98c-b8a10bd49cff",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-11.025kHz-en-62s-noerr-set2.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good day! My name is Philip Long, and I'm here to assist you on behalf of Supreme Escape Rooms. May I have your name, please? Yes, hello Philip. My name is Jacqueline Taylor. Nice to meet you, Jacqueline. How can I assist you today? I'm having an issue with a recent purchase from your escape room. I need help with a return. I'm sorry to hear that you're experiencing issues, Jacqueline. To assist you further, may I have your order number and the date of purchase, please? Sure, the order number is FIVE FIVE FOUR THREE, and the purchase date was March Twenty-Second. Thank you for providing that information. Let me quickly look up your order... Done. I see the problem here. We will sort this out for you. Can I confirm your email address, please? Yes, it's jacqueline.taylor@email.com Great, thank you Jacqueline. I've initiated the return process. You'll receive a confirmation email shortly. Thank you so much for your help, Philip. I appreciate it. You're welcome, Jacqueline. It's been my pleasure helping you. Thank you for choosing Supreme Escape Rooms. Have a great day!",
+          "language": "en-US",
+          "duration": 62.064
+        }
+      }
+    }
+  ]
+}

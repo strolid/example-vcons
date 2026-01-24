@@ -1,0 +1,120 @@
+{
+  "uuid": "ccae5a95-e54c-4735-9a46-9a5a720f5fe3",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-16kHz-en-94s-noerr.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Hello, welcome to Elegant Spaces, the premier destination for all your home decor needs. My name is Anthony Jenkins. May I have your name, please? Yes, hello Anthony. My name is Rose Scott. Thank you, Rose. How can I assist you today? I'm feeling quite frustrated. I ordered a set of custom curtains two weeks ago, and they still haven't arrived in the inventory. I was promised they'd be here by now. I understand your frustration, Rose. I'm really sorry for the inconvenience. Can I get your order number and the email address associated with your account so we can look into this issue right away? Sure, the order number is zero one two three four five six, and my email is rose.scott@example.com. Thank you, Rose. Give me just a moment to check the status of your order. I've looked into your order, and it appears there was a delay at our supplier's end. I apologize for this. We expect it to be available in our inventory by the end of this week. Would you like to wait, or would you prefer a refund? I really need those curtains for my home office setup. I guess I'll wait, but please make sure it doesn't get delayed further. Understood, Rose. I'll personally monitor your order and ensure it’s expedited as soon as it arrives in our inventory. We sincerely apologize for the delay and any inconvenience it’s caused you. Thank you, Anthony. I appreciate your help. It's my pleasure, Rose. Thank you for your patience and understanding. If you have any more questions or need further assistance, feel free to contact us. Have a great day!",
+          "language": "en-US",
+          "duration": 93.912
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 8.938,
+            "text": "Hello, welcome to Elegant Spaces, the premier destination for all your home decor needs. My name is Anthony Jenkins. May I have your name, please?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 8.938,
+            "end": 11.509,
+            "text": "Yes, hello Anthony. My name is Rose Scott.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 11.509,
+            "end": 14.203,
+            "text": "Thank you, Rose. How can I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 14.203,
+            "end": 24.366,
+            "text": "I'm feeling quite frustrated. I ordered a set of custom curtains two weeks ago, and they still haven't arrived in the inventory. I was promised they'd be here by now.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 24.366,
+            "end": 36.487,
+            "text": "I understand your frustration, Rose. I'm really sorry for the inconvenience. Can I get your order number and the email address associated with your account so we can look into this issue right away?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 36.487,
+            "end": 42.548,
+            "text": "Sure, the order number is zero one two three four five six, and my email is rose.scott@example.com.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 42.548,
+            "end": 47.017,
+            "text": "Thank you, Rose. Give me just a moment to check the status of your order.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 47.017,
+            "end": 61.159,
+            "text": "I've looked into your order, and it appears there was a delay at our supplier's end. I apologize for this. We expect it to be available in our inventory by the end of this week. Would you like to wait, or would you prefer a refund?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 8,
+            "start": 61.159,
+            "end": 68.873,
+            "text": "I really need those curtains for my home office setup. I guess I'll wait, but please make sure it doesn't get delayed further.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 9,
+            "start": 68.873,
+            "end": 80.75,
+            "text": "Understood, Rose. I'll personally monitor your order and ensure it’s expedited as soon as it arrives in our inventory. We sincerely apologize for the delay and any inconvenience it’s caused you.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 10,
+            "start": 80.75,
+            "end": 83.382,
+            "text": "Thank you, Anthony. I appreciate your help.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 11,
+            "start": 83.382,
+            "end": 93.912,
+            "text": "It's my pleasure, Rose. Thank you for your patience and understanding. If you have any more questions or need further assistance, feel free to contact us. Have a great day!",
+            "confidence": 0.95,
+            "speaker": 0
+          }
+        ]
+      }
+    }
+  ]
+}

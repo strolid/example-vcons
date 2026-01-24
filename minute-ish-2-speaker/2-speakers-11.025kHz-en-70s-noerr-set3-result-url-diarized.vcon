@@ -1,0 +1,120 @@
+{
+  "uuid": "fd5e12f5-ab6d-42d4-883e-140b01d7b15b",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-11.025kHz-en-70s-noerr-set3.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Hello, good day! This is Christopher Wright from Luxe Web Design Agency. May I have your name, please? Hi, I'm Andrea Alexander. It's nice to meet you. Nice to meet you too, Andrea! How can I assist you today? I'm contacting you because I have a problem related to shipping for the project we ordered. I'm sorry to hear that. Can I get your order number and the email address you used for the order, please? Sure, the order number is zero eight four five two, and my email address is andrea.alexander@email.com. Thank you, Andrea. Let me check the details for your order. Just a moment, please. I have checked your order, and it seems there was a slight delay due to an unexpected issue with our shipping partner. However, I can assure you that your project will be delivered by the end of this week. That’s great to hear! I'm actually happy with how quickly you've managed to resolve the issue. We always strive to ensure our clients are satisfied and their issues are resolved swiftly. Is there anything else I can assist you with today? No, that will be all for now. Thank you for your help, Christopher. You're welcome, Andrea! Thank you for contacting Luxe Web Design Agency. Have a wonderful day!",
+          "language": "en-US",
+          "duration": 69.648
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 5.965,
+            "text": "Hello, good day! This is Christopher Wright from Luxe Web Design Agency. May I have your name, please?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 5.965,
+            "end": 8.772,
+            "text": "Hi, I'm Andrea Alexander. It's nice to meet you.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 8.772,
+            "end": 12.105,
+            "text": "Nice to meet you too, Andrea! How can I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 12.105,
+            "end": 17.427,
+            "text": "I'm contacting you because I have a problem related to shipping for the project we ordered.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 17.427,
+            "end": 23.567,
+            "text": "I'm sorry to hear that. Can I get your order number and the email address you used for the order, please?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 23.567,
+            "end": 29.59,
+            "text": "Sure, the order number is zero eight four five two, and my email address is andrea.alexander@email.com.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 29.59,
+            "end": 34.385,
+            "text": "Thank you, Andrea. Let me check the details for your order. Just a moment, please.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 34.385,
+            "end": 46.374,
+            "text": "I have checked your order, and it seems there was a slight delay due to an unexpected issue with our shipping partner. However, I can assure you that your project will be delivered by the end of this week.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 8,
+            "start": 46.374,
+            "end": 51.871,
+            "text": "That’s great to hear! I'm actually happy with how quickly you've managed to resolve the issue.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 9,
+            "start": 51.871,
+            "end": 60.233,
+            "text": "We always strive to ensure our clients are satisfied and their issues are resolved swiftly. Is there anything else I can assist you with today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 10,
+            "start": 60.233,
+            "end": 64.151,
+            "text": "No, that will be all for now. Thank you for your help, Christopher.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 11,
+            "start": 64.151,
+            "end": 69.648,
+            "text": "You're welcome, Andrea! Thank you for contacting Luxe Web Design Agency. Have a wonderful day!",
+            "confidence": 0.95,
+            "speaker": 0
+          }
+        ]
+      }
+    }
+  ]
+}

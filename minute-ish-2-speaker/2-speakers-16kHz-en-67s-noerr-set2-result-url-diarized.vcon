@@ -1,0 +1,112 @@
+{
+  "uuid": "ae21cb70-e4d1-4d7a-9515-05984331b8ee",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-16kHz-en-67s-noerr-set2.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good morning! This is Billy Gonzales from the DreamHome Real Estate Agency. May I have your name, please? Hi Billy, I'm Hannah King. I'm actually really excited to talk to you today. It's great to have you with us, Hannah! How can I assist you today? I have some concerns about privacy with my property listings. I just want to make sure my personal information is safe. I understand your concerns, Hannah. Ensuring your privacy is our top priority. Could I get your phone number and email address to verify your account? Of course, my phone number is four one five - five five five - one two three four. And my email is hannah.king@example.com. Thank you, Hannah. I have verified your account. Now, let's address your concerns about privacy. We have strong measures in place to protect your personal information. That sounds reassuring. I really appreciate your help with this. You're welcome! Is there anything else I can help you with today? No, that's everything. Thank you so much, Billy. It was my pleasure, Hannah. Thank you for reaching out to DreamHome Real Estate Agency. Have a great day!",
+          "language": "en-US",
+          "duration": 67.368
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 6.496,
+            "text": "Good morning! This is Billy Gonzales from the DreamHome Real Estate Agency. May I have your name, please?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 6.496,
+            "end": 11.197,
+            "text": "Hi Billy, I'm Hannah King. I'm actually really excited to talk to you today.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 11.197,
+            "end": 15.342,
+            "text": "It's great to have you with us, Hannah! How can I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 15.342,
+            "end": 22.703,
+            "text": "I have some concerns about privacy with my property listings. I just want to make sure my personal information is safe.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 22.703,
+            "end": 31.983,
+            "text": "I understand your concerns, Hannah. Ensuring your privacy is our top priority. Could I get your phone number and email address to verify your account?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 31.983,
+            "end": 39.592,
+            "text": "Of course, my phone number is four one five - five five five - one two three four. And my email is hannah.king@example.com.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 39.592,
+            "end": 49.923,
+            "text": "Thank you, Hannah. I have verified your account. Now, let's address your concerns about privacy. We have strong measures in place to protect your personal information.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 49.923,
+            "end": 53.882,
+            "text": "That sounds reassuring. I really appreciate your help with this.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 8,
+            "start": 53.882,
+            "end": 57.903,
+            "text": "You're welcome! Is there anything else I can help you with today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 9,
+            "start": 57.903,
+            "end": 60.872,
+            "text": "No, that's everything. Thank you so much, Billy.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 10,
+            "start": 60.872,
+            "end": 67.368,
+            "text": "It was my pleasure, Hannah. Thank you for reaching out to DreamHome Real Estate Agency. Have a great day!",
+            "confidence": 0.95,
+            "speaker": 0
+          }
+        ]
+      }
+    }
+  ]
+}

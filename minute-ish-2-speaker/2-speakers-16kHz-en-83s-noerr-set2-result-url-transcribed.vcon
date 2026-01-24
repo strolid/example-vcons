@@ -1,0 +1,22 @@
+{
+  "uuid": "5c5c8d0c-047f-4873-a3c2-2f7754b99c91",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-16kHz-en-83s-noerr-set2.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good afternoon! My name is Dylan Brown, and I'm with Cornerstone Cafe's Customer Support. May I have your name, please? Yes, hello, my name is Sara Reed. I'm contacting you because there's an issue with the pricing on my last order, and frankly, I'm quite upset about it. I'm really sorry to hear that you're experiencing this issue, Sara. I'll do my best to resolve this as quickly as possible. Could I get the order number and the date of the order, please? Sure, the order number is AB one two three four five six, and the date was the fifth of April. Thank you, Sara. Let me quickly look up the details of your order. One moment, please. I've found your order. It seems there was indeed a mistake in the pricing. We're terribly sorry about this inconvenience. We will correct the billing amount and issue a refund for the overcharged amount. Thank you for confirming that. I appreciate your help in resolving this issue. How long will it take for the refund to be processed? The refund should be processed within five to seven business days. You will receive a confirmation email once it's been initiated. Alright, that sounds good. Thank you, Dylan, for your assistance today. You're welcome, Sara! Is there anything else I can assist you with today? No, that'll be all. Thanks again. It was my pleasure to help. Thank you for contacting Cornerstone Cafe's Customer Support. Have a great day!",
+          "language": "en-US",
+          "duration": 82.704
+        }
+      }
+    }
+  ]
+}

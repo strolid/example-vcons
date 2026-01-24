@@ -1,0 +1,22 @@
+{
+  "uuid": "5c95e1e8-1403-4d80-be8e-7b695a7321e8",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-44.1kHz-en-76s-noerr-set1.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good day! This is Nicholas Bailey from Artistic Visions Gallery. How can I assist you today? Hi Nicholas, I'm having an issue with some data management for pieces I submitted online. I'm sorry to hear that, Theresa. Before we proceed, may I have your last name and the email associated with your account for verification? Sure, it's Allen, and my email is theresa.allen@email.com. Thank you, Theresa. I've located your account. Now, could you please describe the specific issue you're experiencing with your data management? Certainly, it seems like the latest artworks I uploaded haven't been correctly cataloged in my profile. They're missing from my publicly visible gallery. I understand the issue now. Let me check the back-end data for your account. One moment, please. Thank you for your patience, Theresa. I've found the discrepancy and corrected it. Your artworks should now be properly displayed. Please check and confirm. I just refreshed my page, and yes, I see them now! Thank you so much, Nicholas. I was really worried about this. You're welcome, Theresa! I'm glad I could help. Is there anything else I can assist you with? No, that's everything. I appreciate your help today. It was my pleasure. Thank you for contacting Artistic Visions Gallery. Have a wonderful day, Theresa!",
+          "language": "en-US",
+          "duration": 76.224
+        }
+      }
+    }
+  ]
+}

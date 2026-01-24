@@ -1,0 +1,112 @@
+{
+  "uuid": "8d966c5b-5ac5-425c-9f4a-73a6c3523284",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-11.025kHz-en-58s-noerr.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Hello! My name is William Hayes, and I'm with Green Paws Veterinary Clinic. May I have your name, please? Hi, I'm Joyce Mitchell. Nice to meet you, Joyce. How can I assist you today? I'm feeling disappointed with the quality of one of your products. I'm really sorry to hear that. Could you please tell me which product you're referring to? It's the HeartBeats Heartworm Prevention Chewables for dogs. Thank you for specifying. May I also ask for your pet's name and the batch number of the product? This will help us investigate the issue. Sure, my dog's name is Max, and the batch number is FIVE TWO SEVEN EIGHT. Thank you for that information, Joyce. We'll look into this immediately and follow up with you on our findings. In the meantime, is there anything else I can help you with? No, that would be all for now. Thank you, William. You're welcome, Joyce. Thank you for bringing this to our attention. We value your feedback and are here to ensure you and Max are happy with our services. Have a great day!",
+          "language": "en-US",
+          "duration": 58.104
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 6.089,
+            "text": "Hello! My name is William Hayes, and I'm with Green Paws Veterinary Clinic. May I have your name, please?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 6.089,
+            "end": 7.422,
+            "text": "Hi, I'm Joyce Mitchell.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 7.422,
+            "end": 10.438,
+            "text": "Nice to meet you, Joyce. How can I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 10.438,
+            "end": 14.265,
+            "text": "I'm feeling disappointed with the quality of one of your products.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 14.265,
+            "end": 19.484,
+            "text": "I'm really sorry to hear that. Could you please tell me which product you're referring to?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 19.484,
+            "end": 22.963,
+            "text": "It's the HeartBeats Heartworm Prevention Chewables for dogs.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 22.963,
+            "end": 30.966,
+            "text": "Thank you for specifying. May I also ask for your pet's name and the batch number of the product? This will help us investigate the issue.",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 30.966,
+            "end": 35.199,
+            "text": "Sure, my dog's name is Max, and the batch number is FIVE TWO SEVEN EIGHT.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 8,
+            "start": 35.199,
+            "end": 45.173,
+            "text": "Thank you for that information, Joyce. We'll look into this immediately and follow up with you on our findings. In the meantime, is there anything else I can help you with?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 9,
+            "start": 45.173,
+            "end": 48.072,
+            "text": "No, that would be all for now. Thank you, William.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 10,
+            "start": 48.072,
+            "end": 58.104,
+            "text": "You're welcome, Joyce. Thank you for bringing this to our attention. We value your feedback and are here to ensure you and Max are happy with our services. Have a great day!",
+            "confidence": 0.95,
+            "speaker": 0
+          }
+        ]
+      }
+    }
+  ]
+}

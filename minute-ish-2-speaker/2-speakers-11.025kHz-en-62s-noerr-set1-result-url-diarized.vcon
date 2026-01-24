@@ -1,0 +1,104 @@
+{
+  "uuid": "53bb4c3d-e2b9-43fb-9c6d-228caba4321a",
+  "dialog": [
+    {
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-11.025kHz-en-62s-noerr-set1.mp3"
+    }
+  ],
+  "analysis": [
+    {
+      "type": "wtf_transcription",
+      "dialog": 0,
+      "encoding": "json",
+      "body": {
+        "transcript": {
+          "text": "Good day! This is Russell Miller from Serene Flow Yoga Studio. How may I assist you today? Hi, Russell. I'm Katherine Torres. I came to your studio yesterday, and I couldn't find any yoga mats. I was really looking forward to my session. I’m so sorry to hear that, Katherine. We indeed had an inventory hiccup with our yoga mats. Can I have your phone number and email address to keep you updated on when they’re back in stock? Sure, my phone number is four one five - two two two - five six seven eight, and my email is katherine.t@yogalove.com. Thank you, Katherine. Just to confirm, that was four one five - two two two - five six seven eight, and katherine.t@yogalove.com, correct? Yes, that's correct. Great! I have noted down your details. We will send you an update by tomorrow. Is there anything else I can assist you with? No, that will be all. Thank you for your help, Russell. You're welcome, Katherine. And again, I apologize for the inconvenience. Thank you for bringing this to our attention and for your time. Have a great day! Thank you. Goodbye!",
+          "language": "en-US",
+          "duration": 61.92
+        },
+        "segments": [
+          {
+            "id": 0,
+            "start": 0.0,
+            "end": 5.292,
+            "text": "Good day! This is Russell Miller from Serene Flow Yoga Studio. How may I assist you today?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 1,
+            "start": 5.292,
+            "end": 13.878,
+            "text": "Hi, Russell. I'm Katherine Torres. I came to your studio yesterday, and I couldn't find any yoga mats. I was really looking forward to my session.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 2,
+            "start": 13.878,
+            "end": 24.991,
+            "text": "I’m so sorry to hear that, Katherine. We indeed had an inventory hiccup with our yoga mats. Can I have your phone number and email address to keep you updated on when they’re back in stock?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 3,
+            "start": 24.991,
+            "end": 31.93,
+            "text": "Sure, my phone number is four one five - two two two - five six seven eight, and my email is katherine.t@yogalove.com.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 4,
+            "start": 31.93,
+            "end": 40.045,
+            "text": "Thank you, Katherine. Just to confirm, that was four one five - two two two - five six seven eight, and katherine.t@yogalove.com, correct?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 5,
+            "start": 40.045,
+            "end": 41.221,
+            "text": "Yes, that's correct.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 6,
+            "start": 41.221,
+            "end": 48.513,
+            "text": "Great! I have noted down your details. We will send you an update by tomorrow. Is there anything else I can assist you with?",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 7,
+            "start": 48.513,
+            "end": 51.747,
+            "text": "No, that will be all. Thank you for your help, Russell.",
+            "confidence": 0.95,
+            "speaker": 1
+          },
+          {
+            "id": 8,
+            "start": 51.747,
+            "end": 60.803,
+            "text": "You're welcome, Katherine. And again, I apologize for the inconvenience. Thank you for bringing this to our attention and for your time. Have a great day!",
+            "confidence": 0.95,
+            "speaker": 0
+          },
+          {
+            "id": 9,
+            "start": 60.803,
+            "end": 61.92,
+            "text": "Thank you. Goodbye!",
+            "confidence": 0.95,
+            "speaker": 1
+          }
+        ]
+      }
+    }
+  ]
+}
