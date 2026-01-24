@@ -104,21 +104,13 @@
             {
               "id": 10,
               "start": 75.348,
-              "end": 81.024,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
+              "end": 86.451,
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
               "id": 11,
-              "start": 81.024,
-              "end": 86.451,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 12,
               "start": 86.451,
               "end": 91.503,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -126,7 +118,7 @@
               "speaker": 1
             },
             {
-              "id": 13,
+              "id": 12,
               "start": 91.503,
               "end": 99.487,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -134,7 +126,7 @@
               "speaker": 0
             },
             {
-              "id": 14,
+              "id": 13,
               "start": 99.487,
               "end": 109.342,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -142,7 +134,7 @@
               "speaker": 1
             },
             {
-              "id": 15,
+              "id": 14,
               "start": 109.342,
               "end": 125.74600000000001,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -150,7 +142,7 @@
               "speaker": 0
             },
             {
-              "id": 16,
+              "id": 15,
               "start": 125.74600000000001,
               "end": 129.738,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -158,7 +150,7 @@
               "speaker": 1
             },
             {
-              "id": 17,
+              "id": 16,
               "start": 129.738,
               "end": 144.39600000000002,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -166,7 +158,7 @@
               "speaker": 0
             },
             {
-              "id": 18,
+              "id": 17,
               "start": 144.39600000000002,
               "end": 146.829,
               "text": "Yes, that's the best way to contact me.",
@@ -174,7 +166,7 @@
               "speaker": 1
             },
             {
-              "id": 19,
+              "id": 18,
               "start": 146.829,
               "end": 153.44,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -182,7 +174,7 @@
               "speaker": 0
             },
             {
-              "id": 20,
+              "id": 19,
               "start": 153.44,
               "end": 156.372,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -190,23 +182,15 @@
               "speaker": 1
             },
             {
-              "id": 21,
+              "id": 20,
               "start": 156.372,
-              "end": 162.048,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 22,
-              "start": 162.048,
               "end": 167.475,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 23,
+              "id": 21,
               "start": 167.475,
               "end": 172.527,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -214,7 +198,7 @@
               "speaker": 1
             },
             {
-              "id": 24,
+              "id": 22,
               "start": 172.527,
               "end": 180.511,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -222,7 +206,7 @@
               "speaker": 0
             },
             {
-              "id": 25,
+              "id": 23,
               "start": 180.511,
               "end": 190.366,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -230,7 +214,7 @@
               "speaker": 1
             },
             {
-              "id": 26,
+              "id": 24,
               "start": 190.366,
               "end": 206.77,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -238,7 +222,7 @@
               "speaker": 0
             },
             {
-              "id": 27,
+              "id": 25,
               "start": 206.77,
               "end": 210.762,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -246,7 +230,7 @@
               "speaker": 1
             },
             {
-              "id": 28,
+              "id": 26,
               "start": 210.762,
               "end": 225.42000000000002,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -254,7 +238,7 @@
               "speaker": 0
             },
             {
-              "id": 29,
+              "id": 27,
               "start": 225.42000000000002,
               "end": 227.853,
               "text": "Yes, that's the best way to contact me.",
@@ -262,7 +246,7 @@
               "speaker": 1
             },
             {
-              "id": 30,
+              "id": 28,
               "start": 227.853,
               "end": 234.464,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -270,7 +254,7 @@
               "speaker": 0
             },
             {
-              "id": 31,
+              "id": 29,
               "start": 234.464,
               "end": 237.39600000000002,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -278,23 +262,15 @@
               "speaker": 1
             },
             {
-              "id": 32,
+              "id": 30,
               "start": 237.39600000000002,
-              "end": 243.072,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 33,
-              "start": 243.072,
               "end": 248.499,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 34,
+              "id": 31,
               "start": 248.499,
               "end": 253.551,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -302,7 +278,7 @@
               "speaker": 1
             },
             {
-              "id": 35,
+              "id": 32,
               "start": 253.551,
               "end": 261.535,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -310,7 +286,7 @@
               "speaker": 0
             },
             {
-              "id": 36,
+              "id": 33,
               "start": 261.535,
               "end": 271.39,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -318,7 +294,7 @@
               "speaker": 1
             },
             {
-              "id": 37,
+              "id": 34,
               "start": 271.39,
               "end": 287.794,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -326,7 +302,7 @@
               "speaker": 0
             },
             {
-              "id": 38,
+              "id": 35,
               "start": 287.794,
               "end": 291.786,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -334,7 +310,7 @@
               "speaker": 1
             },
             {
-              "id": 39,
+              "id": 36,
               "start": 291.786,
               "end": 306.444,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -342,7 +318,7 @@
               "speaker": 0
             },
             {
-              "id": 40,
+              "id": 37,
               "start": 306.444,
               "end": 308.877,
               "text": "Yes, that's the best way to contact me.",
@@ -350,7 +326,7 @@
               "speaker": 1
             },
             {
-              "id": 41,
+              "id": 38,
               "start": 308.877,
               "end": 315.488,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -358,7 +334,7 @@
               "speaker": 0
             },
             {
-              "id": 42,
+              "id": 39,
               "start": 315.488,
               "end": 318.42,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -366,23 +342,15 @@
               "speaker": 1
             },
             {
-              "id": 43,
+              "id": 40,
               "start": 318.42,
-              "end": 324.096,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 44,
-              "start": 324.096,
               "end": 329.523,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 45,
+              "id": 41,
               "start": 329.523,
               "end": 334.575,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -390,7 +358,7 @@
               "speaker": 1
             },
             {
-              "id": 46,
+              "id": 42,
               "start": 334.575,
               "end": 342.559,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -398,7 +366,7 @@
               "speaker": 0
             },
             {
-              "id": 47,
+              "id": 43,
               "start": 342.559,
               "end": 352.414,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -406,7 +374,7 @@
               "speaker": 1
             },
             {
-              "id": 48,
+              "id": 44,
               "start": 352.414,
               "end": 368.818,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -414,7 +382,7 @@
               "speaker": 0
             },
             {
-              "id": 49,
+              "id": 45,
               "start": 368.818,
               "end": 372.81,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -422,7 +390,7 @@
               "speaker": 1
             },
             {
-              "id": 50,
+              "id": 46,
               "start": 372.81,
               "end": 387.468,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -430,7 +398,7 @@
               "speaker": 0
             },
             {
-              "id": 51,
+              "id": 47,
               "start": 387.468,
               "end": 389.901,
               "text": "Yes, that's the best way to contact me.",
@@ -438,7 +406,7 @@
               "speaker": 1
             },
             {
-              "id": 52,
+              "id": 48,
               "start": 389.901,
               "end": 396.512,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -446,7 +414,7 @@
               "speaker": 0
             },
             {
-              "id": 53,
+              "id": 49,
               "start": 396.512,
               "end": 399.444,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -454,23 +422,15 @@
               "speaker": 1
             },
             {
-              "id": 54,
+              "id": 50,
               "start": 399.444,
-              "end": 405.12,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 55,
-              "start": 405.12,
               "end": 410.547,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 56,
+              "id": 51,
               "start": 410.547,
               "end": 415.599,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -478,7 +438,7 @@
               "speaker": 1
             },
             {
-              "id": 57,
+              "id": 52,
               "start": 415.599,
               "end": 423.583,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -486,7 +446,7 @@
               "speaker": 0
             },
             {
-              "id": 58,
+              "id": 53,
               "start": 423.583,
               "end": 433.438,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -494,7 +454,7 @@
               "speaker": 1
             },
             {
-              "id": 59,
+              "id": 54,
               "start": 433.438,
               "end": 449.842,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -502,7 +462,7 @@
               "speaker": 0
             },
             {
-              "id": 60,
+              "id": 55,
               "start": 449.842,
               "end": 453.834,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -510,7 +470,7 @@
               "speaker": 1
             },
             {
-              "id": 61,
+              "id": 56,
               "start": 453.834,
               "end": 468.492,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -518,7 +478,7 @@
               "speaker": 0
             },
             {
-              "id": 62,
+              "id": 57,
               "start": 468.492,
               "end": 470.925,
               "text": "Yes, that's the best way to contact me.",
@@ -526,7 +486,7 @@
               "speaker": 1
             },
             {
-              "id": 63,
+              "id": 58,
               "start": 470.925,
               "end": 477.536,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -534,7 +494,7 @@
               "speaker": 0
             },
             {
-              "id": 64,
+              "id": 59,
               "start": 477.536,
               "end": 480.468,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -542,23 +502,15 @@
               "speaker": 1
             },
             {
-              "id": 65,
+              "id": 60,
               "start": 480.468,
-              "end": 486.144,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 66,
-              "start": 486.144,
               "end": 491.571,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 67,
+              "id": 61,
               "start": 491.571,
               "end": 496.623,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -566,7 +518,7 @@
               "speaker": 1
             },
             {
-              "id": 68,
+              "id": 62,
               "start": 496.623,
               "end": 504.607,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -574,7 +526,7 @@
               "speaker": 0
             },
             {
-              "id": 69,
+              "id": 63,
               "start": 504.607,
               "end": 514.462,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -582,7 +534,7 @@
               "speaker": 1
             },
             {
-              "id": 70,
+              "id": 64,
               "start": 514.462,
               "end": 530.866,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -590,7 +542,7 @@
               "speaker": 0
             },
             {
-              "id": 71,
+              "id": 65,
               "start": 530.866,
               "end": 534.858,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -598,7 +550,7 @@
               "speaker": 1
             },
             {
-              "id": 72,
+              "id": 66,
               "start": 534.858,
               "end": 549.516,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -606,7 +558,7 @@
               "speaker": 0
             },
             {
-              "id": 73,
+              "id": 67,
               "start": 549.516,
               "end": 551.9490000000001,
               "text": "Yes, that's the best way to contact me.",
@@ -614,7 +566,7 @@
               "speaker": 1
             },
             {
-              "id": 74,
+              "id": 68,
               "start": 551.9490000000001,
               "end": 558.56,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -622,7 +574,7 @@
               "speaker": 0
             },
             {
-              "id": 75,
+              "id": 69,
               "start": 558.56,
               "end": 561.492,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -630,23 +582,15 @@
               "speaker": 1
             },
             {
-              "id": 76,
+              "id": 70,
               "start": 561.492,
-              "end": 567.168,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 77,
-              "start": 567.168,
               "end": 572.595,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 78,
+              "id": 71,
               "start": 572.595,
               "end": 577.647,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -654,7 +598,7 @@
               "speaker": 1
             },
             {
-              "id": 79,
+              "id": 72,
               "start": 577.647,
               "end": 585.631,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -662,7 +606,7 @@
               "speaker": 0
             },
             {
-              "id": 80,
+              "id": 73,
               "start": 585.631,
               "end": 595.486,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -670,7 +614,7 @@
               "speaker": 1
             },
             {
-              "id": 81,
+              "id": 74,
               "start": 595.486,
               "end": 611.89,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -678,7 +622,7 @@
               "speaker": 0
             },
             {
-              "id": 82,
+              "id": 75,
               "start": 611.89,
               "end": 615.8820000000001,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -686,7 +630,7 @@
               "speaker": 1
             },
             {
-              "id": 83,
+              "id": 76,
               "start": 615.8820000000001,
               "end": 630.54,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -694,7 +638,7 @@
               "speaker": 0
             },
             {
-              "id": 84,
+              "id": 77,
               "start": 630.54,
               "end": 632.973,
               "text": "Yes, that's the best way to contact me.",
@@ -702,7 +646,7 @@
               "speaker": 1
             },
             {
-              "id": 85,
+              "id": 78,
               "start": 632.973,
               "end": 639.5840000000001,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -710,7 +654,7 @@
               "speaker": 0
             },
             {
-              "id": 86,
+              "id": 79,
               "start": 639.5840000000001,
               "end": 642.516,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -718,23 +662,15 @@
               "speaker": 1
             },
             {
-              "id": 87,
+              "id": 80,
               "start": 642.516,
-              "end": 648.192,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 88,
-              "start": 648.192,
               "end": 653.619,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 89,
+              "id": 81,
               "start": 653.619,
               "end": 658.671,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -742,7 +678,7 @@
               "speaker": 1
             },
             {
-              "id": 90,
+              "id": 82,
               "start": 658.671,
               "end": 666.655,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -750,7 +686,7 @@
               "speaker": 0
             },
             {
-              "id": 91,
+              "id": 83,
               "start": 666.655,
               "end": 676.51,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -758,7 +694,7 @@
               "speaker": 1
             },
             {
-              "id": 92,
+              "id": 84,
               "start": 676.51,
               "end": 692.914,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -766,7 +702,7 @@
               "speaker": 0
             },
             {
-              "id": 93,
+              "id": 85,
               "start": 692.914,
               "end": 696.906,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -774,7 +710,7 @@
               "speaker": 1
             },
             {
-              "id": 94,
+              "id": 86,
               "start": 696.906,
               "end": 711.564,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -782,7 +718,7 @@
               "speaker": 0
             },
             {
-              "id": 95,
+              "id": 87,
               "start": 711.564,
               "end": 713.9970000000001,
               "text": "Yes, that's the best way to contact me.",
@@ -790,7 +726,7 @@
               "speaker": 1
             },
             {
-              "id": 96,
+              "id": 88,
               "start": 713.9970000000001,
               "end": 720.608,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -798,7 +734,7 @@
               "speaker": 0
             },
             {
-              "id": 97,
+              "id": 89,
               "start": 720.608,
               "end": 723.54,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -806,23 +742,15 @@
               "speaker": 1
             },
             {
-              "id": 98,
+              "id": 90,
               "start": 723.54,
-              "end": 729.216,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 99,
-              "start": 729.216,
               "end": 734.643,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 100,
+              "id": 91,
               "start": 734.643,
               "end": 739.695,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -830,7 +758,7 @@
               "speaker": 1
             },
             {
-              "id": 101,
+              "id": 92,
               "start": 739.695,
               "end": 747.679,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -838,7 +766,7 @@
               "speaker": 0
             },
             {
-              "id": 102,
+              "id": 93,
               "start": 747.679,
               "end": 757.534,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -846,7 +774,7 @@
               "speaker": 1
             },
             {
-              "id": 103,
+              "id": 94,
               "start": 757.534,
               "end": 773.938,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -854,7 +782,7 @@
               "speaker": 0
             },
             {
-              "id": 104,
+              "id": 95,
               "start": 773.938,
               "end": 777.9300000000001,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -862,7 +790,7 @@
               "speaker": 1
             },
             {
-              "id": 105,
+              "id": 96,
               "start": 777.9300000000001,
               "end": 792.588,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -870,7 +798,7 @@
               "speaker": 0
             },
             {
-              "id": 106,
+              "id": 97,
               "start": 792.588,
               "end": 795.021,
               "text": "Yes, that's the best way to contact me.",
@@ -878,7 +806,7 @@
               "speaker": 1
             },
             {
-              "id": 107,
+              "id": 98,
               "start": 795.021,
               "end": 801.6320000000001,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -886,7 +814,7 @@
               "speaker": 0
             },
             {
-              "id": 108,
+              "id": 99,
               "start": 801.6320000000001,
               "end": 804.564,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -894,23 +822,15 @@
               "speaker": 1
             },
             {
-              "id": 109,
+              "id": 100,
               "start": 804.564,
-              "end": 810.24,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 110,
-              "start": 810.24,
               "end": 815.667,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 111,
+              "id": 101,
               "start": 815.667,
               "end": 820.719,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -918,7 +838,7 @@
               "speaker": 1
             },
             {
-              "id": 112,
+              "id": 102,
               "start": 820.719,
               "end": 828.703,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -926,7 +846,7 @@
               "speaker": 0
             },
             {
-              "id": 113,
+              "id": 103,
               "start": 828.703,
               "end": 838.558,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -934,7 +854,7 @@
               "speaker": 1
             },
             {
-              "id": 114,
+              "id": 104,
               "start": 838.558,
               "end": 854.962,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -942,7 +862,7 @@
               "speaker": 0
             },
             {
-              "id": 115,
+              "id": 105,
               "start": 854.962,
               "end": 858.954,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -950,7 +870,7 @@
               "speaker": 1
             },
             {
-              "id": 116,
+              "id": 106,
               "start": 858.954,
               "end": 873.612,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -958,7 +878,7 @@
               "speaker": 0
             },
             {
-              "id": 117,
+              "id": 107,
               "start": 873.612,
               "end": 876.0450000000001,
               "text": "Yes, that's the best way to contact me.",
@@ -966,7 +886,7 @@
               "speaker": 1
             },
             {
-              "id": 118,
+              "id": 108,
               "start": 876.0450000000001,
               "end": 882.656,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -974,7 +894,7 @@
               "speaker": 0
             },
             {
-              "id": 119,
+              "id": 109,
               "start": 882.656,
               "end": 885.588,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -982,23 +902,15 @@
               "speaker": 1
             },
             {
-              "id": 120,
+              "id": 110,
               "start": 885.588,
-              "end": 891.264,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 121,
-              "start": 891.264,
               "end": 896.691,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 122,
+              "id": 111,
               "start": 896.691,
               "end": 901.743,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -1006,7 +918,7 @@
               "speaker": 1
             },
             {
-              "id": 123,
+              "id": 112,
               "start": 901.743,
               "end": 909.727,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -1014,7 +926,7 @@
               "speaker": 0
             },
             {
-              "id": 124,
+              "id": 113,
               "start": 909.727,
               "end": 919.582,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -1022,7 +934,7 @@
               "speaker": 1
             },
             {
-              "id": 125,
+              "id": 114,
               "start": 919.582,
               "end": 935.986,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -1030,7 +942,7 @@
               "speaker": 0
             },
             {
-              "id": 126,
+              "id": 115,
               "start": 935.986,
               "end": 939.9780000000001,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -1038,7 +950,7 @@
               "speaker": 1
             },
             {
-              "id": 127,
+              "id": 116,
               "start": 939.9780000000001,
               "end": 954.636,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -1046,7 +958,7 @@
               "speaker": 0
             },
             {
-              "id": 128,
+              "id": 117,
               "start": 954.636,
               "end": 957.069,
               "text": "Yes, that's the best way to contact me.",
@@ -1054,7 +966,7 @@
               "speaker": 1
             },
             {
-              "id": 129,
+              "id": 118,
               "start": 957.069,
               "end": 963.6800000000001,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -1062,7 +974,7 @@
               "speaker": 0
             },
             {
-              "id": 130,
+              "id": 119,
               "start": 963.6800000000001,
               "end": 966.612,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -1070,23 +982,15 @@
               "speaker": 1
             },
             {
-              "id": 131,
+              "id": 120,
               "start": 966.612,
-              "end": 972.288,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 132,
-              "start": 972.288,
               "end": 977.715,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 133,
+              "id": 121,
               "start": 977.715,
               "end": 982.767,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -1094,7 +998,7 @@
               "speaker": 1
             },
             {
-              "id": 134,
+              "id": 122,
               "start": 982.767,
               "end": 990.751,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -1102,7 +1006,7 @@
               "speaker": 0
             },
             {
-              "id": 135,
+              "id": 123,
               "start": 990.751,
               "end": 1000.606,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -1110,7 +1014,7 @@
               "speaker": 1
             },
             {
-              "id": 136,
+              "id": 124,
               "start": 1000.606,
               "end": 1017.01,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -1118,7 +1022,7 @@
               "speaker": 0
             },
             {
-              "id": 137,
+              "id": 125,
               "start": 1017.01,
               "end": 1021.002,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -1126,7 +1030,7 @@
               "speaker": 1
             },
             {
-              "id": 138,
+              "id": 126,
               "start": 1021.002,
               "end": 1035.66,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -1134,7 +1038,7 @@
               "speaker": 0
             },
             {
-              "id": 139,
+              "id": 127,
               "start": 1035.66,
               "end": 1038.093,
               "text": "Yes, that's the best way to contact me.",
@@ -1142,7 +1046,7 @@
               "speaker": 1
             },
             {
-              "id": 140,
+              "id": 128,
               "start": 1038.093,
               "end": 1044.704,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -1150,7 +1054,7 @@
               "speaker": 0
             },
             {
-              "id": 141,
+              "id": 129,
               "start": 1044.704,
               "end": 1047.636,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -1158,23 +1062,15 @@
               "speaker": 1
             },
             {
-              "id": 142,
+              "id": 130,
               "start": 1047.636,
-              "end": 1053.312,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 143,
-              "start": 1053.312,
               "end": 1058.7389999999998,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 144,
+              "id": 131,
               "start": 1058.7389999999998,
               "end": 1063.791,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -1182,7 +1078,7 @@
               "speaker": 1
             },
             {
-              "id": 145,
+              "id": 132,
               "start": 1063.791,
               "end": 1071.7749999999999,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -1190,7 +1086,7 @@
               "speaker": 0
             },
             {
-              "id": 146,
+              "id": 133,
               "start": 1071.7749999999999,
               "end": 1081.6299999999999,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -1198,7 +1094,7 @@
               "speaker": 1
             },
             {
-              "id": 147,
+              "id": 134,
               "start": 1081.6299999999999,
               "end": 1098.0339999999999,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -1206,7 +1102,7 @@
               "speaker": 0
             },
             {
-              "id": 148,
+              "id": 135,
               "start": 1098.0339999999999,
               "end": 1102.0259999999998,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -1214,7 +1110,7 @@
               "speaker": 1
             },
             {
-              "id": 149,
+              "id": 136,
               "start": 1102.0259999999998,
               "end": 1116.684,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -1222,7 +1118,7 @@
               "speaker": 0
             },
             {
-              "id": 150,
+              "id": 137,
               "start": 1116.684,
               "end": 1119.117,
               "text": "Yes, that's the best way to contact me.",
@@ -1230,7 +1126,7 @@
               "speaker": 1
             },
             {
-              "id": 151,
+              "id": 138,
               "start": 1119.117,
               "end": 1125.7279999999998,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -1238,7 +1134,7 @@
               "speaker": 0
             },
             {
-              "id": 152,
+              "id": 139,
               "start": 1125.7279999999998,
               "end": 1128.6599999999999,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -1246,23 +1142,15 @@
               "speaker": 1
             },
             {
-              "id": 153,
+              "id": 140,
               "start": 1128.6599999999999,
-              "end": 1134.3359999999998,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 154,
-              "start": 1134.336,
               "end": 1139.763,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 155,
+              "id": 141,
               "start": 1139.763,
               "end": 1144.815,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -1270,7 +1158,7 @@
               "speaker": 1
             },
             {
-              "id": 156,
+              "id": 142,
               "start": 1144.815,
               "end": 1152.799,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -1278,7 +1166,7 @@
               "speaker": 0
             },
             {
-              "id": 157,
+              "id": 143,
               "start": 1152.799,
               "end": 1162.654,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -1286,7 +1174,7 @@
               "speaker": 1
             },
             {
-              "id": 158,
+              "id": 144,
               "start": 1162.654,
               "end": 1179.058,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -1294,7 +1182,7 @@
               "speaker": 0
             },
             {
-              "id": 159,
+              "id": 145,
               "start": 1179.058,
               "end": 1183.05,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -1302,7 +1190,7 @@
               "speaker": 1
             },
             {
-              "id": 160,
+              "id": 146,
               "start": 1183.05,
               "end": 1197.708,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -1310,7 +1198,7 @@
               "speaker": 0
             },
             {
-              "id": 161,
+              "id": 147,
               "start": 1197.708,
               "end": 1200.141,
               "text": "Yes, that's the best way to contact me.",
@@ -1318,7 +1206,7 @@
               "speaker": 1
             },
             {
-              "id": 162,
+              "id": 148,
               "start": 1200.141,
               "end": 1206.752,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -1326,7 +1214,7 @@
               "speaker": 0
             },
             {
-              "id": 163,
+              "id": 149,
               "start": 1206.752,
               "end": 1209.684,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -1334,23 +1222,15 @@
               "speaker": 1
             },
             {
-              "id": 164,
+              "id": 150,
               "start": 1209.684,
-              "end": 1215.3600000000001,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 165,
-              "start": 1215.3600000000001,
               "end": 1220.787,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 166,
+              "id": 151,
               "start": 1220.787,
               "end": 1225.8390000000002,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -1358,7 +1238,7 @@
               "speaker": 1
             },
             {
-              "id": 167,
+              "id": 152,
               "start": 1225.8390000000002,
               "end": 1233.823,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -1366,7 +1246,7 @@
               "speaker": 0
             },
             {
-              "id": 168,
+              "id": 153,
               "start": 1233.823,
               "end": 1243.678,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -1374,7 +1254,7 @@
               "speaker": 1
             },
             {
-              "id": 169,
+              "id": 154,
               "start": 1243.678,
               "end": 1260.082,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -1382,7 +1262,7 @@
               "speaker": 0
             },
             {
-              "id": 170,
+              "id": 155,
               "start": 1260.082,
               "end": 1264.074,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -1390,7 +1270,7 @@
               "speaker": 1
             },
             {
-              "id": 171,
+              "id": 156,
               "start": 1264.074,
               "end": 1278.7320000000002,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -1398,7 +1278,7 @@
               "speaker": 0
             },
             {
-              "id": 172,
+              "id": 157,
               "start": 1278.7320000000002,
               "end": 1281.1650000000002,
               "text": "Yes, that's the best way to contact me.",
@@ -1406,7 +1286,7 @@
               "speaker": 1
             },
             {
-              "id": 173,
+              "id": 158,
               "start": 1281.1650000000002,
               "end": 1287.776,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -1414,7 +1294,7 @@
               "speaker": 0
             },
             {
-              "id": 174,
+              "id": 159,
               "start": 1287.776,
               "end": 1290.708,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -1422,23 +1302,15 @@
               "speaker": 1
             },
             {
-              "id": 175,
+              "id": 160,
               "start": 1290.708,
-              "end": 1296.384,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 176,
-              "start": 1296.384,
               "end": 1301.811,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 177,
+              "id": 161,
               "start": 1301.811,
               "end": 1306.863,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -1446,7 +1318,7 @@
               "speaker": 1
             },
             {
-              "id": 178,
+              "id": 162,
               "start": 1306.863,
               "end": 1314.847,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -1454,7 +1326,7 @@
               "speaker": 0
             },
             {
-              "id": 179,
+              "id": 163,
               "start": 1314.847,
               "end": 1324.702,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -1462,7 +1334,7 @@
               "speaker": 1
             },
             {
-              "id": 180,
+              "id": 164,
               "start": 1324.702,
               "end": 1341.106,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -1470,7 +1342,7 @@
               "speaker": 0
             },
             {
-              "id": 181,
+              "id": 165,
               "start": 1341.106,
               "end": 1345.098,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -1478,7 +1350,7 @@
               "speaker": 1
             },
             {
-              "id": 182,
+              "id": 166,
               "start": 1345.098,
               "end": 1359.756,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -1486,7 +1358,7 @@
               "speaker": 0
             },
             {
-              "id": 183,
+              "id": 167,
               "start": 1359.756,
               "end": 1362.189,
               "text": "Yes, that's the best way to contact me.",
@@ -1494,7 +1366,7 @@
               "speaker": 1
             },
             {
-              "id": 184,
+              "id": 168,
               "start": 1362.189,
               "end": 1368.8,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -1502,7 +1374,7 @@
               "speaker": 0
             },
             {
-              "id": 185,
+              "id": 169,
               "start": 1368.8,
               "end": 1371.732,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -1510,23 +1382,15 @@
               "speaker": 1
             },
             {
-              "id": 186,
+              "id": 170,
               "start": 1371.732,
-              "end": 1377.408,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 187,
-              "start": 1377.408,
               "end": 1382.8349999999998,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 188,
+              "id": 171,
               "start": 1382.8349999999998,
               "end": 1387.887,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -1534,7 +1398,7 @@
               "speaker": 1
             },
             {
-              "id": 189,
+              "id": 172,
               "start": 1387.887,
               "end": 1395.8709999999999,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -1542,7 +1406,7 @@
               "speaker": 0
             },
             {
-              "id": 190,
+              "id": 173,
               "start": 1395.8709999999999,
               "end": 1405.7259999999999,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -1550,7 +1414,7 @@
               "speaker": 1
             },
             {
-              "id": 191,
+              "id": 174,
               "start": 1405.7259999999999,
               "end": 1422.1299999999999,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -1558,7 +1422,7 @@
               "speaker": 0
             },
             {
-              "id": 192,
+              "id": 175,
               "start": 1422.1299999999999,
               "end": 1426.1219999999998,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -1566,7 +1430,7 @@
               "speaker": 1
             },
             {
-              "id": 193,
+              "id": 176,
               "start": 1426.1219999999998,
               "end": 1440.78,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -1574,7 +1438,7 @@
               "speaker": 0
             },
             {
-              "id": 194,
+              "id": 177,
               "start": 1440.78,
               "end": 1443.213,
               "text": "Yes, that's the best way to contact me.",
@@ -1582,7 +1446,7 @@
               "speaker": 1
             },
             {
-              "id": 195,
+              "id": 178,
               "start": 1443.213,
               "end": 1449.8239999999998,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -1590,7 +1454,7 @@
               "speaker": 0
             },
             {
-              "id": 196,
+              "id": 179,
               "start": 1449.8239999999998,
               "end": 1452.7559999999999,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -1598,23 +1462,15 @@
               "speaker": 1
             },
             {
-              "id": 197,
+              "id": 180,
               "start": 1452.7559999999999,
-              "end": 1458.4319999999998,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 198,
-              "start": 1458.432,
               "end": 1463.859,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 199,
+              "id": 181,
               "start": 1463.859,
               "end": 1468.911,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -1622,7 +1478,7 @@
               "speaker": 1
             },
             {
-              "id": 200,
+              "id": 182,
               "start": 1468.911,
               "end": 1476.895,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -1630,7 +1486,7 @@
               "speaker": 0
             },
             {
-              "id": 201,
+              "id": 183,
               "start": 1476.895,
               "end": 1486.75,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -1638,7 +1494,7 @@
               "speaker": 1
             },
             {
-              "id": 202,
+              "id": 184,
               "start": 1486.75,
               "end": 1503.154,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -1646,7 +1502,7 @@
               "speaker": 0
             },
             {
-              "id": 203,
+              "id": 185,
               "start": 1503.154,
               "end": 1507.146,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -1654,7 +1510,7 @@
               "speaker": 1
             },
             {
-              "id": 204,
+              "id": 186,
               "start": 1507.146,
               "end": 1521.804,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -1662,7 +1518,7 @@
               "speaker": 0
             },
             {
-              "id": 205,
+              "id": 187,
               "start": 1521.804,
               "end": 1524.237,
               "text": "Yes, that's the best way to contact me.",
@@ -1670,7 +1526,7 @@
               "speaker": 1
             },
             {
-              "id": 206,
+              "id": 188,
               "start": 1524.237,
               "end": 1530.848,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -1678,7 +1534,7 @@
               "speaker": 0
             },
             {
-              "id": 207,
+              "id": 189,
               "start": 1530.848,
               "end": 1533.78,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -1686,23 +1542,15 @@
               "speaker": 1
             },
             {
-              "id": 208,
+              "id": 190,
               "start": 1533.78,
-              "end": 1539.4560000000001,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 209,
-              "start": 1539.4560000000001,
               "end": 1544.883,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 210,
+              "id": 191,
               "start": 1544.883,
               "end": 1549.9350000000002,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -1710,7 +1558,7 @@
               "speaker": 1
             },
             {
-              "id": 211,
+              "id": 192,
               "start": 1549.9350000000002,
               "end": 1557.919,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -1718,7 +1566,7 @@
               "speaker": 0
             },
             {
-              "id": 212,
+              "id": 193,
               "start": 1557.919,
               "end": 1567.7740000000001,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -1726,7 +1574,7 @@
               "speaker": 1
             },
             {
-              "id": 213,
+              "id": 194,
               "start": 1567.7740000000001,
               "end": 1584.178,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -1734,7 +1582,7 @@
               "speaker": 0
             },
             {
-              "id": 214,
+              "id": 195,
               "start": 1584.178,
               "end": 1588.17,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -1742,7 +1590,7 @@
               "speaker": 1
             },
             {
-              "id": 215,
+              "id": 196,
               "start": 1588.17,
               "end": 1602.8280000000002,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -1750,7 +1598,7 @@
               "speaker": 0
             },
             {
-              "id": 216,
+              "id": 197,
               "start": 1602.8280000000002,
               "end": 1605.2610000000002,
               "text": "Yes, that's the best way to contact me.",
@@ -1758,7 +1606,7 @@
               "speaker": 1
             },
             {
-              "id": 217,
+              "id": 198,
               "start": 1605.2610000000002,
               "end": 1611.872,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -1766,7 +1614,7 @@
               "speaker": 0
             },
             {
-              "id": 218,
+              "id": 199,
               "start": 1611.872,
               "end": 1614.804,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -1774,23 +1622,15 @@
               "speaker": 1
             },
             {
-              "id": 219,
+              "id": 200,
               "start": 1614.804,
-              "end": 1620.48,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 220,
-              "start": 1620.48,
               "end": 1625.907,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 221,
+              "id": 201,
               "start": 1625.907,
               "end": 1630.959,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -1798,7 +1638,7 @@
               "speaker": 1
             },
             {
-              "id": 222,
+              "id": 202,
               "start": 1630.959,
               "end": 1638.943,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -1806,7 +1646,7 @@
               "speaker": 0
             },
             {
-              "id": 223,
+              "id": 203,
               "start": 1638.943,
               "end": 1648.798,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -1814,7 +1654,7 @@
               "speaker": 1
             },
             {
-              "id": 224,
+              "id": 204,
               "start": 1648.798,
               "end": 1665.202,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -1822,7 +1662,7 @@
               "speaker": 0
             },
             {
-              "id": 225,
+              "id": 205,
               "start": 1665.202,
               "end": 1669.194,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -1830,7 +1670,7 @@
               "speaker": 1
             },
             {
-              "id": 226,
+              "id": 206,
               "start": 1669.194,
               "end": 1683.852,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -1838,7 +1678,7 @@
               "speaker": 0
             },
             {
-              "id": 227,
+              "id": 207,
               "start": 1683.852,
               "end": 1686.285,
               "text": "Yes, that's the best way to contact me.",
@@ -1846,7 +1686,7 @@
               "speaker": 1
             },
             {
-              "id": 228,
+              "id": 208,
               "start": 1686.285,
               "end": 1692.896,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -1854,7 +1694,7 @@
               "speaker": 0
             },
             {
-              "id": 229,
+              "id": 209,
               "start": 1692.896,
               "end": 1695.828,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -1862,23 +1702,15 @@
               "speaker": 1
             },
             {
-              "id": 230,
+              "id": 210,
               "start": 1695.828,
-              "end": 1701.504,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 231,
-              "start": 1701.504,
               "end": 1706.9309999999998,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 232,
+              "id": 211,
               "start": 1706.9309999999998,
               "end": 1711.983,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -1886,7 +1718,7 @@
               "speaker": 1
             },
             {
-              "id": 233,
+              "id": 212,
               "start": 1711.983,
               "end": 1719.9669999999999,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -1894,7 +1726,7 @@
               "speaker": 0
             },
             {
-              "id": 234,
+              "id": 213,
               "start": 1719.9669999999999,
               "end": 1729.822,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -1902,7 +1734,7 @@
               "speaker": 1
             },
             {
-              "id": 235,
+              "id": 214,
               "start": 1729.822,
               "end": 1746.2259999999999,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -1910,7 +1742,7 @@
               "speaker": 0
             },
             {
-              "id": 236,
+              "id": 215,
               "start": 1746.2259999999999,
               "end": 1750.2179999999998,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -1918,7 +1750,7 @@
               "speaker": 1
             },
             {
-              "id": 237,
+              "id": 216,
               "start": 1750.2179999999998,
               "end": 1764.876,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -1926,7 +1758,7 @@
               "speaker": 0
             },
             {
-              "id": 238,
+              "id": 217,
               "start": 1764.876,
               "end": 1767.309,
               "text": "Yes, that's the best way to contact me.",
@@ -1934,7 +1766,7 @@
               "speaker": 1
             },
             {
-              "id": 239,
+              "id": 218,
               "start": 1767.309,
               "end": 1773.9199999999998,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -1942,7 +1774,7 @@
               "speaker": 0
             },
             {
-              "id": 240,
+              "id": 219,
               "start": 1773.9199999999998,
               "end": 1776.8519999999999,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -1950,23 +1782,15 @@
               "speaker": 1
             },
             {
-              "id": 241,
+              "id": 220,
               "start": 1776.8519999999999,
-              "end": 1782.5279999999998,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 242,
-              "start": 1782.528,
               "end": 1787.955,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 243,
+              "id": 221,
               "start": 1787.955,
               "end": 1793.007,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -1974,7 +1798,7 @@
               "speaker": 1
             },
             {
-              "id": 244,
+              "id": 222,
               "start": 1793.007,
               "end": 1800.991,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -1982,7 +1806,7 @@
               "speaker": 0
             },
             {
-              "id": 245,
+              "id": 223,
               "start": 1800.991,
               "end": 1810.846,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -1990,7 +1814,7 @@
               "speaker": 1
             },
             {
-              "id": 246,
+              "id": 224,
               "start": 1810.846,
               "end": 1827.25,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -1998,7 +1822,7 @@
               "speaker": 0
             },
             {
-              "id": 247,
+              "id": 225,
               "start": 1827.25,
               "end": 1831.242,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -2006,7 +1830,7 @@
               "speaker": 1
             },
             {
-              "id": 248,
+              "id": 226,
               "start": 1831.242,
               "end": 1845.9,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -2014,7 +1838,7 @@
               "speaker": 0
             },
             {
-              "id": 249,
+              "id": 227,
               "start": 1845.9,
               "end": 1848.333,
               "text": "Yes, that's the best way to contact me.",
@@ -2022,7 +1846,7 @@
               "speaker": 1
             },
             {
-              "id": 250,
+              "id": 228,
               "start": 1848.333,
               "end": 1854.944,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -2030,7 +1854,7 @@
               "speaker": 0
             },
             {
-              "id": 251,
+              "id": 229,
               "start": 1854.944,
               "end": 1857.876,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -2038,23 +1862,15 @@
               "speaker": 1
             },
             {
-              "id": 252,
+              "id": 230,
               "start": 1857.876,
-              "end": 1863.5520000000001,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 253,
-              "start": 1863.5520000000001,
               "end": 1868.979,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 254,
+              "id": 231,
               "start": 1868.979,
               "end": 1874.0310000000002,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -2062,7 +1878,7 @@
               "speaker": 1
             },
             {
-              "id": 255,
+              "id": 232,
               "start": 1874.0310000000002,
               "end": 1882.015,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -2070,7 +1886,7 @@
               "speaker": 0
             },
             {
-              "id": 256,
+              "id": 233,
               "start": 1882.015,
               "end": 1891.8700000000001,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -2078,7 +1894,7 @@
               "speaker": 1
             },
             {
-              "id": 257,
+              "id": 234,
               "start": 1891.8700000000001,
               "end": 1908.2740000000001,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -2086,7 +1902,7 @@
               "speaker": 0
             },
             {
-              "id": 258,
+              "id": 235,
               "start": 1908.2740000000001,
               "end": 1912.266,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -2094,7 +1910,7 @@
               "speaker": 1
             },
             {
-              "id": 259,
+              "id": 236,
               "start": 1912.266,
               "end": 1926.9240000000002,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -2102,7 +1918,7 @@
               "speaker": 0
             },
             {
-              "id": 260,
+              "id": 237,
               "start": 1926.9240000000002,
               "end": 1929.3570000000002,
               "text": "Yes, that's the best way to contact me.",
@@ -2110,7 +1926,7 @@
               "speaker": 1
             },
             {
-              "id": 261,
+              "id": 238,
               "start": 1929.3570000000002,
               "end": 1935.968,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -2118,7 +1934,7 @@
               "speaker": 0
             },
             {
-              "id": 262,
+              "id": 239,
               "start": 1935.968,
               "end": 1938.9,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -2126,23 +1942,15 @@
               "speaker": 1
             },
             {
-              "id": 263,
+              "id": 240,
               "start": 1938.9,
-              "end": 1944.576,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 264,
-              "start": 1944.576,
               "end": 1950.003,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 265,
+              "id": 241,
               "start": 1950.003,
               "end": 1955.055,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -2150,7 +1958,7 @@
               "speaker": 1
             },
             {
-              "id": 266,
+              "id": 242,
               "start": 1955.055,
               "end": 1963.039,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -2158,7 +1966,7 @@
               "speaker": 0
             },
             {
-              "id": 267,
+              "id": 243,
               "start": 1963.039,
               "end": 1972.894,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -2166,7 +1974,7 @@
               "speaker": 1
             },
             {
-              "id": 268,
+              "id": 244,
               "start": 1972.894,
               "end": 1989.298,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -2174,7 +1982,7 @@
               "speaker": 0
             },
             {
-              "id": 269,
+              "id": 245,
               "start": 1989.298,
               "end": 1993.29,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -2182,7 +1990,7 @@
               "speaker": 1
             },
             {
-              "id": 270,
+              "id": 246,
               "start": 1993.29,
               "end": 2007.948,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -2190,7 +1998,7 @@
               "speaker": 0
             },
             {
-              "id": 271,
+              "id": 247,
               "start": 2007.948,
               "end": 2010.381,
               "text": "Yes, that's the best way to contact me.",
@@ -2198,7 +2006,7 @@
               "speaker": 1
             },
             {
-              "id": 272,
+              "id": 248,
               "start": 2010.381,
               "end": 2016.992,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -2206,7 +2014,7 @@
               "speaker": 0
             },
             {
-              "id": 273,
+              "id": 249,
               "start": 2016.992,
               "end": 2019.924,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -2214,23 +2022,15 @@
               "speaker": 1
             },
             {
-              "id": 274,
+              "id": 250,
               "start": 2019.924,
-              "end": 2025.6,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 275,
-              "start": 2025.6,
               "end": 2031.0269999999998,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 276,
+              "id": 251,
               "start": 2031.0269999999998,
               "end": 2036.079,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -2238,7 +2038,7 @@
               "speaker": 1
             },
             {
-              "id": 277,
+              "id": 252,
               "start": 2036.079,
               "end": 2044.0629999999999,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -2246,7 +2046,7 @@
               "speaker": 0
             },
             {
-              "id": 278,
+              "id": 253,
               "start": 2044.0629999999999,
               "end": 2053.918,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -2254,7 +2054,7 @@
               "speaker": 1
             },
             {
-              "id": 279,
+              "id": 254,
               "start": 2053.918,
               "end": 2070.322,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -2262,7 +2062,7 @@
               "speaker": 0
             },
             {
-              "id": 280,
+              "id": 255,
               "start": 2070.322,
               "end": 2074.314,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -2270,7 +2070,7 @@
               "speaker": 1
             },
             {
-              "id": 281,
+              "id": 256,
               "start": 2074.314,
               "end": 2088.9719999999998,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -2278,7 +2078,7 @@
               "speaker": 0
             },
             {
-              "id": 282,
+              "id": 257,
               "start": 2088.9719999999998,
               "end": 2091.4049999999997,
               "text": "Yes, that's the best way to contact me.",
@@ -2286,7 +2086,7 @@
               "speaker": 1
             },
             {
-              "id": 283,
+              "id": 258,
               "start": 2091.4049999999997,
               "end": 2098.016,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -2294,7 +2094,7 @@
               "speaker": 0
             },
             {
-              "id": 284,
+              "id": 259,
               "start": 2098.016,
               "end": 2100.948,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -2302,23 +2102,15 @@
               "speaker": 1
             },
             {
-              "id": 285,
+              "id": 260,
               "start": 2100.948,
-              "end": 2106.624,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 286,
-              "start": 2106.624,
               "end": 2112.051,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 287,
+              "id": 261,
               "start": 2112.051,
               "end": 2117.1029999999996,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -2326,7 +2118,7 @@
               "speaker": 1
             },
             {
-              "id": 288,
+              "id": 262,
               "start": 2117.1029999999996,
               "end": 2125.087,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -2334,7 +2126,7 @@
               "speaker": 0
             },
             {
-              "id": 289,
+              "id": 263,
               "start": 2125.087,
               "end": 2134.942,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -2342,7 +2134,7 @@
               "speaker": 1
             },
             {
-              "id": 290,
+              "id": 264,
               "start": 2134.942,
               "end": 2151.346,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -2350,7 +2142,7 @@
               "speaker": 0
             },
             {
-              "id": 291,
+              "id": 265,
               "start": 2151.346,
               "end": 2155.3379999999997,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -2358,7 +2150,7 @@
               "speaker": 1
             },
             {
-              "id": 292,
+              "id": 266,
               "start": 2155.3379999999997,
               "end": 2169.9959999999996,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -2366,7 +2158,7 @@
               "speaker": 0
             },
             {
-              "id": 293,
+              "id": 267,
               "start": 2169.9959999999996,
               "end": 2172.4289999999996,
               "text": "Yes, that's the best way to contact me.",
@@ -2374,7 +2166,7 @@
               "speaker": 1
             },
             {
-              "id": 294,
+              "id": 268,
               "start": 2172.4289999999996,
               "end": 2179.04,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -2382,7 +2174,7 @@
               "speaker": 0
             },
             {
-              "id": 295,
+              "id": 269,
               "start": 2179.04,
               "end": 2181.9719999999998,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -2390,23 +2182,15 @@
               "speaker": 1
             },
             {
-              "id": 296,
+              "id": 270,
               "start": 2181.9719999999998,
-              "end": 2187.6479999999997,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 297,
-              "start": 2187.648,
               "end": 2193.0750000000003,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 298,
+              "id": 271,
               "start": 2193.0750000000003,
               "end": 2198.127,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -2414,7 +2198,7 @@
               "speaker": 1
             },
             {
-              "id": 299,
+              "id": 272,
               "start": 2198.127,
               "end": 2206.1110000000003,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -2422,7 +2206,7 @@
               "speaker": 0
             },
             {
-              "id": 300,
+              "id": 273,
               "start": 2206.1110000000003,
               "end": 2215.9660000000003,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -2430,7 +2214,7 @@
               "speaker": 1
             },
             {
-              "id": 301,
+              "id": 274,
               "start": 2215.9660000000003,
               "end": 2232.3700000000003,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -2438,7 +2222,7 @@
               "speaker": 0
             },
             {
-              "id": 302,
+              "id": 275,
               "start": 2232.3700000000003,
               "end": 2236.362,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -2446,7 +2230,7 @@
               "speaker": 1
             },
             {
-              "id": 303,
+              "id": 276,
               "start": 2236.362,
               "end": 2251.02,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -2454,7 +2238,7 @@
               "speaker": 0
             },
             {
-              "id": 304,
+              "id": 277,
               "start": 2251.02,
               "end": 2253.453,
               "text": "Yes, that's the best way to contact me.",
@@ -2462,7 +2246,7 @@
               "speaker": 1
             },
             {
-              "id": 305,
+              "id": 278,
               "start": 2253.453,
               "end": 2260.0640000000003,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -2470,7 +2254,7 @@
               "speaker": 0
             },
             {
-              "id": 306,
+              "id": 279,
               "start": 2260.0640000000003,
               "end": 2262.996,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -2478,23 +2262,15 @@
               "speaker": 1
             },
             {
-              "id": 307,
+              "id": 280,
               "start": 2262.996,
-              "end": 2268.672,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 308,
-              "start": 2268.672,
               "end": 2274.099,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 309,
+              "id": 281,
               "start": 2274.099,
               "end": 2279.151,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -2502,7 +2278,7 @@
               "speaker": 1
             },
             {
-              "id": 310,
+              "id": 282,
               "start": 2279.151,
               "end": 2287.135,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -2510,7 +2286,7 @@
               "speaker": 0
             },
             {
-              "id": 311,
+              "id": 283,
               "start": 2287.135,
               "end": 2296.9900000000002,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -2518,7 +2294,7 @@
               "speaker": 1
             },
             {
-              "id": 312,
+              "id": 284,
               "start": 2296.9900000000002,
               "end": 2313.3940000000002,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -2526,7 +2302,7 @@
               "speaker": 0
             },
             {
-              "id": 313,
+              "id": 285,
               "start": 2313.3940000000002,
               "end": 2317.386,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -2534,7 +2310,7 @@
               "speaker": 1
             },
             {
-              "id": 314,
+              "id": 286,
               "start": 2317.386,
               "end": 2332.044,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -2542,7 +2318,7 @@
               "speaker": 0
             },
             {
-              "id": 315,
+              "id": 287,
               "start": 2332.044,
               "end": 2334.477,
               "text": "Yes, that's the best way to contact me.",
@@ -2550,7 +2326,7 @@
               "speaker": 1
             },
             {
-              "id": 316,
+              "id": 288,
               "start": 2334.477,
               "end": 2341.088,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -2558,7 +2334,7 @@
               "speaker": 0
             },
             {
-              "id": 317,
+              "id": 289,
               "start": 2341.088,
               "end": 2344.02,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -2566,23 +2342,15 @@
               "speaker": 1
             },
             {
-              "id": 318,
+              "id": 290,
               "start": 2344.02,
-              "end": 2349.696,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 319,
-              "start": 2349.696,
               "end": 2355.123,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 320,
+              "id": 291,
               "start": 2355.123,
               "end": 2360.1749999999997,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -2590,7 +2358,7 @@
               "speaker": 1
             },
             {
-              "id": 321,
+              "id": 292,
               "start": 2360.1749999999997,
               "end": 2368.159,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -2598,7 +2366,7 @@
               "speaker": 0
             },
             {
-              "id": 322,
+              "id": 293,
               "start": 2368.159,
               "end": 2378.014,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -2606,7 +2374,7 @@
               "speaker": 1
             },
             {
-              "id": 323,
+              "id": 294,
               "start": 2378.014,
               "end": 2394.418,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -2614,7 +2382,7 @@
               "speaker": 0
             },
             {
-              "id": 324,
+              "id": 295,
               "start": 2394.418,
               "end": 2398.41,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -2622,7 +2390,7 @@
               "speaker": 1
             },
             {
-              "id": 325,
+              "id": 296,
               "start": 2398.41,
               "end": 2413.0679999999998,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -2630,7 +2398,7 @@
               "speaker": 0
             },
             {
-              "id": 326,
+              "id": 297,
               "start": 2413.0679999999998,
               "end": 2415.5009999999997,
               "text": "Yes, that's the best way to contact me.",
@@ -2638,7 +2406,7 @@
               "speaker": 1
             },
             {
-              "id": 327,
+              "id": 298,
               "start": 2415.5009999999997,
               "end": 2422.112,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -2646,7 +2414,7 @@
               "speaker": 0
             },
             {
-              "id": 328,
+              "id": 299,
               "start": 2422.112,
               "end": 2425.044,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -2654,23 +2422,15 @@
               "speaker": 1
             },
             {
-              "id": 329,
+              "id": 300,
               "start": 2425.044,
-              "end": 2430.72,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 330,
-              "start": 2430.7200000000003,
               "end": 2436.1470000000004,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 331,
+              "id": 301,
               "start": 2436.1470000000004,
               "end": 2441.199,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -2678,7 +2438,7 @@
               "speaker": 1
             },
             {
-              "id": 332,
+              "id": 302,
               "start": 2441.199,
               "end": 2449.1830000000004,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -2686,7 +2446,7 @@
               "speaker": 0
             },
             {
-              "id": 333,
+              "id": 303,
               "start": 2449.1830000000004,
               "end": 2459.0380000000005,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -2694,7 +2454,7 @@
               "speaker": 1
             },
             {
-              "id": 334,
+              "id": 304,
               "start": 2459.0380000000005,
               "end": 2475.4420000000005,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -2702,7 +2462,7 @@
               "speaker": 0
             },
             {
-              "id": 335,
+              "id": 305,
               "start": 2475.4420000000005,
               "end": 2479.434,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -2710,7 +2470,7 @@
               "speaker": 1
             },
             {
-              "id": 336,
+              "id": 306,
               "start": 2479.434,
               "end": 2494.092,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -2718,7 +2478,7 @@
               "speaker": 0
             },
             {
-              "id": 337,
+              "id": 307,
               "start": 2494.092,
               "end": 2496.525,
               "text": "Yes, that's the best way to contact me.",
@@ -2726,7 +2486,7 @@
               "speaker": 1
             },
             {
-              "id": 338,
+              "id": 308,
               "start": 2496.525,
               "end": 2503.1360000000004,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -2734,7 +2494,7 @@
               "speaker": 0
             },
             {
-              "id": 339,
+              "id": 309,
               "start": 2503.1360000000004,
               "end": 2506.068,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -2742,23 +2502,15 @@
               "speaker": 1
             },
             {
-              "id": 340,
+              "id": 310,
               "start": 2506.068,
-              "end": 2511.744,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 341,
-              "start": 2511.744,
               "end": 2517.1710000000003,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 342,
+              "id": 311,
               "start": 2517.1710000000003,
               "end": 2522.223,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -2766,7 +2518,7 @@
               "speaker": 1
             },
             {
-              "id": 343,
+              "id": 312,
               "start": 2522.223,
               "end": 2530.2070000000003,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -2774,7 +2526,7 @@
               "speaker": 0
             },
             {
-              "id": 344,
+              "id": 313,
               "start": 2530.2070000000003,
               "end": 2540.0620000000004,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -2782,7 +2534,7 @@
               "speaker": 1
             },
             {
-              "id": 345,
+              "id": 314,
               "start": 2540.0620000000004,
               "end": 2556.4660000000003,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -2790,7 +2542,7 @@
               "speaker": 0
             },
             {
-              "id": 346,
+              "id": 315,
               "start": 2556.4660000000003,
               "end": 2560.458,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -2798,7 +2550,7 @@
               "speaker": 1
             },
             {
-              "id": 347,
+              "id": 316,
               "start": 2560.458,
               "end": 2575.116,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -2806,7 +2558,7 @@
               "speaker": 0
             },
             {
-              "id": 348,
+              "id": 317,
               "start": 2575.116,
               "end": 2577.549,
               "text": "Yes, that's the best way to contact me.",
@@ -2814,7 +2566,7 @@
               "speaker": 1
             },
             {
-              "id": 349,
+              "id": 318,
               "start": 2577.549,
               "end": 2584.1600000000003,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -2822,7 +2574,7 @@
               "speaker": 0
             },
             {
-              "id": 350,
+              "id": 319,
               "start": 2584.1600000000003,
               "end": 2587.092,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -2830,23 +2582,15 @@
               "speaker": 1
             },
             {
-              "id": 351,
+              "id": 320,
               "start": 2587.092,
-              "end": 2592.768,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 352,
-              "start": 2592.768,
               "end": 2598.195,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 353,
+              "id": 321,
               "start": 2598.195,
               "end": 2603.247,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -2854,7 +2598,7 @@
               "speaker": 1
             },
             {
-              "id": 354,
+              "id": 322,
               "start": 2603.247,
               "end": 2611.231,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -2862,7 +2606,7 @@
               "speaker": 0
             },
             {
-              "id": 355,
+              "id": 323,
               "start": 2611.231,
               "end": 2621.0860000000002,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -2870,7 +2614,7 @@
               "speaker": 1
             },
             {
-              "id": 356,
+              "id": 324,
               "start": 2621.0860000000002,
               "end": 2637.4900000000002,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -2878,7 +2622,7 @@
               "speaker": 0
             },
             {
-              "id": 357,
+              "id": 325,
               "start": 2637.4900000000002,
               "end": 2641.482,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -2886,7 +2630,7 @@
               "speaker": 1
             },
             {
-              "id": 358,
+              "id": 326,
               "start": 2641.482,
               "end": 2656.14,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -2894,7 +2638,7 @@
               "speaker": 0
             },
             {
-              "id": 359,
+              "id": 327,
               "start": 2656.14,
               "end": 2658.573,
               "text": "Yes, that's the best way to contact me.",
@@ -2902,7 +2646,7 @@
               "speaker": 1
             },
             {
-              "id": 360,
+              "id": 328,
               "start": 2658.573,
               "end": 2665.184,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -2910,7 +2654,7 @@
               "speaker": 0
             },
             {
-              "id": 361,
+              "id": 329,
               "start": 2665.184,
               "end": 2668.116,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -2918,23 +2662,15 @@
               "speaker": 1
             },
             {
-              "id": 362,
+              "id": 330,
               "start": 2668.116,
-              "end": 2673.792,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 363,
-              "start": 2673.792,
               "end": 2679.219,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 364,
+              "id": 331,
               "start": 2679.219,
               "end": 2684.2709999999997,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -2942,7 +2678,7 @@
               "speaker": 1
             },
             {
-              "id": 365,
+              "id": 332,
               "start": 2684.2709999999997,
               "end": 2692.255,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -2950,7 +2686,7 @@
               "speaker": 0
             },
             {
-              "id": 366,
+              "id": 333,
               "start": 2692.255,
               "end": 2702.11,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -2958,7 +2694,7 @@
               "speaker": 1
             },
             {
-              "id": 367,
+              "id": 334,
               "start": 2702.11,
               "end": 2718.514,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -2966,7 +2702,7 @@
               "speaker": 0
             },
             {
-              "id": 368,
+              "id": 335,
               "start": 2718.514,
               "end": 2722.506,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -2974,7 +2710,7 @@
               "speaker": 1
             },
             {
-              "id": 369,
+              "id": 336,
               "start": 2722.506,
               "end": 2737.1639999999998,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -2982,7 +2718,7 @@
               "speaker": 0
             },
             {
-              "id": 370,
+              "id": 337,
               "start": 2737.1639999999998,
               "end": 2739.5969999999998,
               "text": "Yes, that's the best way to contact me.",
@@ -2990,7 +2726,7 @@
               "speaker": 1
             },
             {
-              "id": 371,
+              "id": 338,
               "start": 2739.5969999999998,
               "end": 2746.208,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -2998,7 +2734,7 @@
               "speaker": 0
             },
             {
-              "id": 372,
+              "id": 339,
               "start": 2746.208,
               "end": 2749.14,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -3006,23 +2742,15 @@
               "speaker": 1
             },
             {
-              "id": 373,
+              "id": 340,
               "start": 2749.14,
-              "end": 2754.816,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 374,
-              "start": 2754.816,
               "end": 2760.243,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 375,
+              "id": 341,
               "start": 2760.243,
               "end": 2765.2949999999996,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -3030,7 +2758,7 @@
               "speaker": 1
             },
             {
-              "id": 376,
+              "id": 342,
               "start": 2765.2949999999996,
               "end": 2773.279,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -3038,7 +2766,7 @@
               "speaker": 0
             },
             {
-              "id": 377,
+              "id": 343,
               "start": 2773.279,
               "end": 2783.134,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -3046,7 +2774,7 @@
               "speaker": 1
             },
             {
-              "id": 378,
+              "id": 344,
               "start": 2783.134,
               "end": 2799.538,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -3054,7 +2782,7 @@
               "speaker": 0
             },
             {
-              "id": 379,
+              "id": 345,
               "start": 2799.538,
               "end": 2803.5299999999997,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -3062,7 +2790,7 @@
               "speaker": 1
             },
             {
-              "id": 380,
+              "id": 346,
               "start": 2803.5299999999997,
               "end": 2818.1879999999996,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -3070,7 +2798,7 @@
               "speaker": 0
             },
             {
-              "id": 381,
+              "id": 347,
               "start": 2818.1879999999996,
               "end": 2820.6209999999996,
               "text": "Yes, that's the best way to contact me.",
@@ -3078,7 +2806,7 @@
               "speaker": 1
             },
             {
-              "id": 382,
+              "id": 348,
               "start": 2820.6209999999996,
               "end": 2827.232,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -3086,7 +2814,7 @@
               "speaker": 0
             },
             {
-              "id": 383,
+              "id": 349,
               "start": 2827.232,
               "end": 2830.1639999999998,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -3094,23 +2822,15 @@
               "speaker": 1
             },
             {
-              "id": 384,
+              "id": 350,
               "start": 2830.1639999999998,
-              "end": 2835.8399999999997,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 385,
-              "start": 2835.84,
               "end": 2841.2670000000003,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 386,
+              "id": 351,
               "start": 2841.2670000000003,
               "end": 2846.319,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -3118,7 +2838,7 @@
               "speaker": 1
             },
             {
-              "id": 387,
+              "id": 352,
               "start": 2846.319,
               "end": 2854.3030000000003,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -3126,7 +2846,7 @@
               "speaker": 0
             },
             {
-              "id": 388,
+              "id": 353,
               "start": 2854.3030000000003,
               "end": 2864.1580000000004,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -3134,7 +2854,7 @@
               "speaker": 1
             },
             {
-              "id": 389,
+              "id": 354,
               "start": 2864.1580000000004,
               "end": 2880.5620000000004,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -3142,7 +2862,7 @@
               "speaker": 0
             },
             {
-              "id": 390,
+              "id": 355,
               "start": 2880.5620000000004,
               "end": 2884.554,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -3150,7 +2870,7 @@
               "speaker": 1
             },
             {
-              "id": 391,
+              "id": 356,
               "start": 2884.554,
               "end": 2899.212,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -3158,7 +2878,7 @@
               "speaker": 0
             },
             {
-              "id": 392,
+              "id": 357,
               "start": 2899.212,
               "end": 2901.645,
               "text": "Yes, that's the best way to contact me.",
@@ -3166,7 +2886,7 @@
               "speaker": 1
             },
             {
-              "id": 393,
+              "id": 358,
               "start": 2901.645,
               "end": 2908.2560000000003,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -3174,7 +2894,7 @@
               "speaker": 0
             },
             {
-              "id": 394,
+              "id": 359,
               "start": 2908.2560000000003,
               "end": 2911.188,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -3182,23 +2902,15 @@
               "speaker": 1
             },
             {
-              "id": 395,
+              "id": 360,
               "start": 2911.188,
-              "end": 2916.864,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 396,
-              "start": 2916.864,
               "end": 2922.291,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 397,
+              "id": 361,
               "start": 2922.291,
               "end": 2927.343,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -3206,7 +2918,7 @@
               "speaker": 1
             },
             {
-              "id": 398,
+              "id": 362,
               "start": 2927.343,
               "end": 2935.327,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -3214,7 +2926,7 @@
               "speaker": 0
             },
             {
-              "id": 399,
+              "id": 363,
               "start": 2935.327,
               "end": 2945.1820000000002,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -3222,7 +2934,7 @@
               "speaker": 1
             },
             {
-              "id": 400,
+              "id": 364,
               "start": 2945.1820000000002,
               "end": 2961.5860000000002,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -3230,7 +2942,7 @@
               "speaker": 0
             },
             {
-              "id": 401,
+              "id": 365,
               "start": 2961.5860000000002,
               "end": 2965.578,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -3238,7 +2950,7 @@
               "speaker": 1
             },
             {
-              "id": 402,
+              "id": 366,
               "start": 2965.578,
               "end": 2980.236,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -3246,7 +2958,7 @@
               "speaker": 0
             },
             {
-              "id": 403,
+              "id": 367,
               "start": 2980.236,
               "end": 2982.669,
               "text": "Yes, that's the best way to contact me.",
@@ -3254,7 +2966,7 @@
               "speaker": 1
             },
             {
-              "id": 404,
+              "id": 368,
               "start": 2982.669,
               "end": 2989.28,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -3262,7 +2974,7 @@
               "speaker": 0
             },
             {
-              "id": 405,
+              "id": 369,
               "start": 2989.28,
               "end": 2992.212,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -3270,23 +2982,15 @@
               "speaker": 1
             },
             {
-              "id": 406,
+              "id": 370,
               "start": 2992.212,
-              "end": 2997.888,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 407,
-              "start": 2997.888,
               "end": 3003.315,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 408,
+              "id": 371,
               "start": 3003.315,
               "end": 3008.3669999999997,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -3294,7 +2998,7 @@
               "speaker": 1
             },
             {
-              "id": 409,
+              "id": 372,
               "start": 3008.3669999999997,
               "end": 3016.351,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -3302,7 +3006,7 @@
               "speaker": 0
             },
             {
-              "id": 410,
+              "id": 373,
               "start": 3016.351,
               "end": 3026.206,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -3310,7 +3014,7 @@
               "speaker": 1
             },
             {
-              "id": 411,
+              "id": 374,
               "start": 3026.206,
               "end": 3042.61,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -3318,7 +3022,7 @@
               "speaker": 0
             },
             {
-              "id": 412,
+              "id": 375,
               "start": 3042.61,
               "end": 3046.602,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -3326,7 +3030,7 @@
               "speaker": 1
             },
             {
-              "id": 413,
+              "id": 376,
               "start": 3046.602,
               "end": 3061.2599999999998,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -3334,7 +3038,7 @@
               "speaker": 0
             },
             {
-              "id": 414,
+              "id": 377,
               "start": 3061.2599999999998,
               "end": 3063.6929999999998,
               "text": "Yes, that's the best way to contact me.",
@@ -3342,7 +3046,7 @@
               "speaker": 1
             },
             {
-              "id": 415,
+              "id": 378,
               "start": 3063.6929999999998,
               "end": 3070.304,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -3350,7 +3054,7 @@
               "speaker": 0
             },
             {
-              "id": 416,
+              "id": 379,
               "start": 3070.304,
               "end": 3073.236,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -3358,23 +3062,15 @@
               "speaker": 1
             },
             {
-              "id": 417,
+              "id": 380,
               "start": 3073.236,
-              "end": 3078.912,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 418,
-              "start": 3078.9120000000003,
               "end": 3084.3390000000004,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 419,
+              "id": 381,
               "start": 3084.3390000000004,
               "end": 3089.391,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -3382,7 +3078,7 @@
               "speaker": 1
             },
             {
-              "id": 420,
+              "id": 382,
               "start": 3089.391,
               "end": 3097.3750000000005,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -3390,7 +3086,7 @@
               "speaker": 0
             },
             {
-              "id": 421,
+              "id": 383,
               "start": 3097.3750000000005,
               "end": 3107.2300000000005,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -3398,7 +3094,7 @@
               "speaker": 1
             },
             {
-              "id": 422,
+              "id": 384,
               "start": 3107.2300000000005,
               "end": 3123.6340000000005,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -3406,7 +3102,7 @@
               "speaker": 0
             },
             {
-              "id": 423,
+              "id": 385,
               "start": 3123.6340000000005,
               "end": 3127.626,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -3414,7 +3110,7 @@
               "speaker": 1
             },
             {
-              "id": 424,
+              "id": 386,
               "start": 3127.626,
               "end": 3142.284,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -3422,7 +3118,7 @@
               "speaker": 0
             },
             {
-              "id": 425,
+              "id": 387,
               "start": 3142.284,
               "end": 3144.717,
               "text": "Yes, that's the best way to contact me.",
@@ -3430,7 +3126,7 @@
               "speaker": 1
             },
             {
-              "id": 426,
+              "id": 388,
               "start": 3144.717,
               "end": 3151.3280000000004,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -3438,7 +3134,7 @@
               "speaker": 0
             },
             {
-              "id": 427,
+              "id": 389,
               "start": 3151.3280000000004,
               "end": 3154.26,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -3446,23 +3142,15 @@
               "speaker": 1
             },
             {
-              "id": 428,
+              "id": 390,
               "start": 3154.26,
-              "end": 3159.936,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 429,
-              "start": 3159.936,
               "end": 3165.3630000000003,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 430,
+              "id": 391,
               "start": 3165.3630000000003,
               "end": 3170.415,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -3470,7 +3158,7 @@
               "speaker": 1
             },
             {
-              "id": 431,
+              "id": 392,
               "start": 3170.415,
               "end": 3178.3990000000003,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -3478,7 +3166,7 @@
               "speaker": 0
             },
             {
-              "id": 432,
+              "id": 393,
               "start": 3178.3990000000003,
               "end": 3188.2540000000004,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -3486,7 +3174,7 @@
               "speaker": 1
             },
             {
-              "id": 433,
+              "id": 394,
               "start": 3188.2540000000004,
               "end": 3204.6580000000004,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -3494,7 +3182,7 @@
               "speaker": 0
             },
             {
-              "id": 434,
+              "id": 395,
               "start": 3204.6580000000004,
               "end": 3208.65,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -3502,7 +3190,7 @@
               "speaker": 1
             },
             {
-              "id": 435,
+              "id": 396,
               "start": 3208.65,
               "end": 3223.308,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -3510,7 +3198,7 @@
               "speaker": 0
             },
             {
-              "id": 436,
+              "id": 397,
               "start": 3223.308,
               "end": 3225.741,
               "text": "Yes, that's the best way to contact me.",
@@ -3518,7 +3206,7 @@
               "speaker": 1
             },
             {
-              "id": 437,
+              "id": 398,
               "start": 3225.741,
               "end": 3232.3520000000003,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -3526,7 +3214,7 @@
               "speaker": 0
             },
             {
-              "id": 438,
+              "id": 399,
               "start": 3232.3520000000003,
               "end": 3235.284,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -3534,23 +3222,15 @@
               "speaker": 1
             },
             {
-              "id": 439,
+              "id": 400,
               "start": 3235.284,
-              "end": 3240.96,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 440,
-              "start": 3240.96,
               "end": 3246.387,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 441,
+              "id": 401,
               "start": 3246.387,
               "end": 3251.439,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -3558,7 +3238,7 @@
               "speaker": 1
             },
             {
-              "id": 442,
+              "id": 402,
               "start": 3251.439,
               "end": 3259.4230000000002,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -3566,7 +3246,7 @@
               "speaker": 0
             },
             {
-              "id": 443,
+              "id": 403,
               "start": 3259.4230000000002,
               "end": 3269.2780000000002,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -3574,7 +3254,7 @@
               "speaker": 1
             },
             {
-              "id": 444,
+              "id": 404,
               "start": 3269.2780000000002,
               "end": 3285.6820000000002,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -3582,7 +3262,7 @@
               "speaker": 0
             },
             {
-              "id": 445,
+              "id": 405,
               "start": 3285.6820000000002,
               "end": 3289.674,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -3590,7 +3270,7 @@
               "speaker": 1
             },
             {
-              "id": 446,
+              "id": 406,
               "start": 3289.674,
               "end": 3304.332,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -3598,7 +3278,7 @@
               "speaker": 0
             },
             {
-              "id": 447,
+              "id": 407,
               "start": 3304.332,
               "end": 3306.765,
               "text": "Yes, that's the best way to contact me.",
@@ -3606,7 +3286,7 @@
               "speaker": 1
             },
             {
-              "id": 448,
+              "id": 408,
               "start": 3306.765,
               "end": 3313.376,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -3614,7 +3294,7 @@
               "speaker": 0
             },
             {
-              "id": 449,
+              "id": 409,
               "start": 3313.376,
               "end": 3316.308,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -3622,23 +3302,15 @@
               "speaker": 1
             },
             {
-              "id": 450,
+              "id": 410,
               "start": 3316.308,
-              "end": 3321.984,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 451,
-              "start": 3321.984,
               "end": 3327.411,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 452,
+              "id": 411,
               "start": 3327.411,
               "end": 3332.4629999999997,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -3646,7 +3318,7 @@
               "speaker": 1
             },
             {
-              "id": 453,
+              "id": 412,
               "start": 3332.4629999999997,
               "end": 3340.447,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -3654,7 +3326,7 @@
               "speaker": 0
             },
             {
-              "id": 454,
+              "id": 413,
               "start": 3340.447,
               "end": 3350.302,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -3662,7 +3334,7 @@
               "speaker": 1
             },
             {
-              "id": 455,
+              "id": 414,
               "start": 3350.302,
               "end": 3366.706,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -3670,7 +3342,7 @@
               "speaker": 0
             },
             {
-              "id": 456,
+              "id": 415,
               "start": 3366.706,
               "end": 3370.698,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -3678,7 +3350,7 @@
               "speaker": 1
             },
             {
-              "id": 457,
+              "id": 416,
               "start": 3370.698,
               "end": 3385.3559999999998,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -3686,7 +3358,7 @@
               "speaker": 0
             },
             {
-              "id": 458,
+              "id": 417,
               "start": 3385.3559999999998,
               "end": 3387.7889999999998,
               "text": "Yes, that's the best way to contact me.",
@@ -3694,7 +3366,7 @@
               "speaker": 1
             },
             {
-              "id": 459,
+              "id": 418,
               "start": 3387.7889999999998,
               "end": 3394.4,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -3702,7 +3374,7 @@
               "speaker": 0
             },
             {
-              "id": 460,
+              "id": 419,
               "start": 3394.4,
               "end": 3397.332,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -3710,23 +3382,15 @@
               "speaker": 1
             },
             {
-              "id": 461,
+              "id": 420,
               "start": 3397.332,
-              "end": 3403.008,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 462,
-              "start": 3403.008,
               "end": 3408.435,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 463,
+              "id": 421,
               "start": 3408.435,
               "end": 3413.4869999999996,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -3734,7 +3398,7 @@
               "speaker": 1
             },
             {
-              "id": 464,
+              "id": 422,
               "start": 3413.4869999999996,
               "end": 3421.471,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -3742,7 +3406,7 @@
               "speaker": 0
             },
             {
-              "id": 465,
+              "id": 423,
               "start": 3421.471,
               "end": 3431.326,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -3750,7 +3414,7 @@
               "speaker": 1
             },
             {
-              "id": 466,
+              "id": 424,
               "start": 3431.326,
               "end": 3447.73,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -3758,7 +3422,7 @@
               "speaker": 0
             },
             {
-              "id": 467,
+              "id": 425,
               "start": 3447.73,
               "end": 3451.7219999999998,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -3766,7 +3430,7 @@
               "speaker": 1
             },
             {
-              "id": 468,
+              "id": 426,
               "start": 3451.7219999999998,
               "end": 3466.3799999999997,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -3774,7 +3438,7 @@
               "speaker": 0
             },
             {
-              "id": 469,
+              "id": 427,
               "start": 3466.3799999999997,
               "end": 3468.8129999999996,
               "text": "Yes, that's the best way to contact me.",
@@ -3782,7 +3446,7 @@
               "speaker": 1
             },
             {
-              "id": 470,
+              "id": 428,
               "start": 3468.8129999999996,
               "end": 3475.424,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -3790,7 +3454,7 @@
               "speaker": 0
             },
             {
-              "id": 471,
+              "id": 429,
               "start": 3475.424,
               "end": 3478.3559999999998,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -3798,23 +3462,15 @@
               "speaker": 1
             },
             {
-              "id": 472,
+              "id": 430,
               "start": 3478.3559999999998,
-              "end": 3484.0319999999997,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 473,
-              "start": 3484.032,
               "end": 3489.4590000000003,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 474,
+              "id": 431,
               "start": 3489.4590000000003,
               "end": 3494.511,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -3822,7 +3478,7 @@
               "speaker": 1
             },
             {
-              "id": 475,
+              "id": 432,
               "start": 3494.511,
               "end": 3502.4950000000003,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -3830,7 +3486,7 @@
               "speaker": 0
             },
             {
-              "id": 476,
+              "id": 433,
               "start": 3502.4950000000003,
               "end": 3512.3500000000004,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -3838,7 +3494,7 @@
               "speaker": 1
             },
             {
-              "id": 477,
+              "id": 434,
               "start": 3512.3500000000004,
               "end": 3528.7540000000004,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -3846,7 +3502,7 @@
               "speaker": 0
             },
             {
-              "id": 478,
+              "id": 435,
               "start": 3528.7540000000004,
               "end": 3532.746,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -3854,7 +3510,7 @@
               "speaker": 1
             },
             {
-              "id": 479,
+              "id": 436,
               "start": 3532.746,
               "end": 3547.404,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -3862,7 +3518,7 @@
               "speaker": 0
             },
             {
-              "id": 480,
+              "id": 437,
               "start": 3547.404,
               "end": 3549.837,
               "text": "Yes, that's the best way to contact me.",
@@ -3870,7 +3526,7 @@
               "speaker": 1
             },
             {
-              "id": 481,
+              "id": 438,
               "start": 3549.837,
               "end": 3556.4480000000003,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -3878,7 +3534,7 @@
               "speaker": 0
             },
             {
-              "id": 482,
+              "id": 439,
               "start": 3556.4480000000003,
               "end": 3559.38,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -3886,23 +3542,15 @@
               "speaker": 1
             },
             {
-              "id": 483,
+              "id": 440,
               "start": 3559.38,
-              "end": 3565.056,
-              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
-              "confidence": 0.95,
-              "speaker": 0
-            },
-            {
-              "id": 484,
-              "start": 3565.056,
               "end": 3570.483,
-              "text": "Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
+              "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day! Good afternoon! This is Logan Clark from Go-Kart Tracks Co. How can I assist you today?",
               "confidence": 0.95,
               "speaker": 0
             },
             {
-              "id": 485,
+              "id": 441,
               "start": 3570.483,
               "end": 3575.535,
               "text": "Hi, I'm having some issues with the security at your track. It's quite confusing.",
@@ -3910,7 +3558,7 @@
               "speaker": 1
             },
             {
-              "id": 486,
+              "id": 442,
               "start": 3575.535,
               "end": 3583.5190000000002,
               "text": "I'm sorry to hear that you're facing issues, Theresa. Could you please provide me with more details about this security problem?",
@@ -3918,7 +3566,7 @@
               "speaker": 0
             },
             {
-              "id": 487,
+              "id": 443,
               "start": 3583.5190000000002,
               "end": 3593.3740000000003,
               "text": "Sure, I was at the track yesterday, and a security measure that's supposed to be straightforward was not working. It made the whole experience very confusing.",
@@ -3926,7 +3574,7 @@
               "speaker": 1
             },
             {
-              "id": 488,
+              "id": 444,
               "start": 3593.3740000000003,
               "end": 3609.7780000000002,
               "text": "Thank you for bringing this to our attention, Theresa. We certainly want to ensure everyone has a safe and enjoyable time. May I ask for two pieces of personal information to verify your account? The date of your visit and your membership number, if you have one.",
@@ -3934,7 +3582,7 @@
               "speaker": 0
             },
             {
-              "id": 489,
+              "id": 445,
               "start": 3609.7780000000002,
               "end": 3613.77,
               "text": "Yes, I visited on April 2nd, and my membership number is GH567E.",
@@ -3942,7 +3590,7 @@
               "speaker": 1
             },
             {
-              "id": 490,
+              "id": 446,
               "start": 3613.77,
               "end": 3628.428,
               "text": "Thank you for that information, Theresa. I will report the issue to our security team and ensure they look into it. We might contact you later for further details. Is the email associated with your membership the best way to reach you?",
@@ -3950,7 +3598,7 @@
               "speaker": 0
             },
             {
-              "id": 491,
+              "id": 447,
               "start": 3628.428,
               "end": 3630.861,
               "text": "Yes, that's the best way to contact me.",
@@ -3958,7 +3606,7 @@
               "speaker": 1
             },
             {
-              "id": 492,
+              "id": 448,
               "start": 3630.861,
               "end": 3637.472,
               "text": "Great, we'll keep you updated on our findings and solutions. Is there anything else I can assist you with?",
@@ -3966,7 +3614,7 @@
               "speaker": 0
             },
             {
-              "id": 493,
+              "id": 449,
               "start": 3637.472,
               "end": 3640.404,
               "text": "No, that's all. Thank you for your help, Logan.",
@@ -3974,7 +3622,7 @@
               "speaker": 1
             },
             {
-              "id": 494,
+              "id": 450,
               "start": 3640.404,
               "end": 3646.08,
               "text": "You're welcome, Theresa! Thank you for reaching out to Go-Kart Tracks Co. Have a great day!",
