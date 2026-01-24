@@ -1,0 +1,15 @@
+{
+  "vcon": "0.0.1",
+  "uuid": "60min-69ae57aa-02de-4c76-bec6-171f4d4d6ece",
+  "created_at": "2026-01-24T16:34:20Z",
+  "dialog": [
+    {
+      "type": "recording",
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-16kHz-en-60min-noerr.mp3",
+      "filename": "2-speakers-16kHz-en-60min-noerr.mp3",
+      "mimetype": "audio/mpeg"
+    }
+  ],
+  "parties": [],
+  "analysis": []
+}
