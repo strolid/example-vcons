@@ -1,0 +1,27 @@
+{
+  "vcon": "0.0.1",
+  "uuid": "b86acaa6-3a3f-4d97-a045-caae6827dd05",
+  "created_at": "2026-01-24T14:56:48Z",
+  "dialog": [
+    {
+      "type": "recording",
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-44.1kHz-en-53s-noerr.flac",
+      "filename": "2-speakers-44.1kHz-en-53s-noerr.flac",
+      "mimetype": "audio/flac"
+    }
+  ],
+  "parties": [],
+  "analysis": [
+    {
+      "type": "transcript",
+      "vendor": "vfun",
+      "body": {
+        "transcript": {
+          "text": "null",
+          "language": "en",
+          "duration": 53
+        }
+      }
+    }
+  ]
+}
