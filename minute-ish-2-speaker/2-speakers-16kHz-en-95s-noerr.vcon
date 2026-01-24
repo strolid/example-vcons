@@ -5,7 +5,7 @@
   "dialog": [
     {
       "alg": "SHA-512",
-      "url": "https://github.com/strolid/example-vcons/raw/refs/heads/main/19d7f4b1-1b5e-48ce-b172-fec0285db3ce.mp3",
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-16kHz-en-95s-noerr.mp3",
       "meta": {
         "direction": "in",
         "disposition": "ANSWERED"
@@ -17,7 +17,7 @@
         0
       ],
       "duration": 95.256,
-      "filename": "19d7f4b1-1b5e-48ce-b172-fec0285db3ce.mp3",
+      "filename": "2-speakers-16kHz-en-95s-noerr.mp3",
       "mimetype": "audio/mp3",
       "signature": "RxCBPv43DUJi8V1_PmjA6HzqoJUXP9oF3L92LE3yG9LjahGu-wyz2i14_3pdbjRAGCZmGgb3KR7xilcNpFEnSQ"
     }
@@ -97,7 +97,7 @@
         },
         {
           "speaker": "Agent",
-          "message": "Thank you, Tiffany. I\u2019ll start working on resolving the issue right away and will get back to you with a solution as soon as possible. In the meantime, is there anything else I can assist you with?"
+          "message": "Thank you, Tiffany. I’ll start working on resolving the issue right away and will get back to you with a solution as soon as possible. In the meantime, is there anything else I can assist you with?"
         },
         {
           "speaker": "Customer",

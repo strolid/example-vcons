@@ -5,7 +5,7 @@
   "dialog": [
     {
       "alg": "SHA-512",
-      "url": "https://github.com/strolid/example-vcons/raw/refs/heads/main/ccae5a95-e54c-4735-9a46-9a5a720f5fe3.mp3",
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-16kHz-en-94s-noerr.mp3",
       "meta": {
         "direction": "in",
         "disposition": "ANSWERED"
@@ -17,7 +17,7 @@
         0
       ],
       "duration": 93.912,
-      "filename": "ccae5a95-e54c-4735-9a46-9a5a720f5fe3.mp3",
+      "filename": "2-speakers-16kHz-en-94s-noerr.mp3",
       "mimetype": "audio/mp3",
       "signature": "TDp_Ka4B3B5tuu3kJS6YwZGMihubKTyUbYJB2ONNg967PTObgIdwjlxRqdPi8U4yUIOBGsgc5mM9lqmXb0scNg"
     }
@@ -101,7 +101,7 @@
         },
         {
           "speaker": "Agent",
-          "message": "Understood, Rose. I'll personally monitor your order and ensure it\u2019s expedited as soon as it arrives in our inventory. We sincerely apologize for the delay and any inconvenience it\u2019s caused you."
+          "message": "Understood, Rose. I'll personally monitor your order and ensure it’s expedited as soon as it arrives in our inventory. We sincerely apologize for the delay and any inconvenience it’s caused you."
         },
         {
           "speaker": "Customer",

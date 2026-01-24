@@ -5,7 +5,7 @@
   "dialog": [
     {
       "alg": "SHA-512",
-      "url": "https://github.com/strolid/example-vcons/raw/refs/heads/main/f2789cbb-d215-452d-b859-dc7461085a37.mp3",
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-16kHz-en-57s-noerr-set2.mp3",
       "meta": {
         "direction": "in",
         "disposition": "ANSWERED"
@@ -17,7 +17,7 @@
         0
       ],
       "duration": 57.48,
-      "filename": "f2789cbb-d215-452d-b859-dc7461085a37.mp3",
+      "filename": "2-speakers-16kHz-en-57s-noerr-set2.mp3",
       "mimetype": "audio/mp3",
       "signature": "ydi4VBe0YMPgN-zCzODNn9ZIz3nCS2mWjg2ajARb8ktj2tsh0Lna03d4DqJCMwPE86jGYkBtCHCkWKOwGFvQnw"
     }
@@ -93,7 +93,7 @@
         },
         {
           "speaker": "Customer",
-          "message": "Yes, it\u2019s julie.stewart@email.com."
+          "message": "Yes, it’s julie.stewart@email.com."
         },
         {
           "speaker": "Agent",
@@ -117,11 +117,11 @@
         },
         {
           "speaker": "Customer",
-          "message": "No, that\u2019s everything. Thank you for your help, Tyler."
+          "message": "No, that’s everything. Thank you for your help, Tyler."
         },
         {
           "speaker": "Agent",
-          "message": "You\u2019re very welcome, Julie! Thank you for reaching out to us. Have a lovely day!"
+          "message": "You’re very welcome, Julie! Thank you for reaching out to us. Have a lovely day!"
         }
       ],
       "vendor_schema": {

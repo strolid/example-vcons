@@ -5,7 +5,7 @@
   "dialog": [
     {
       "alg": "SHA-512",
-      "url": "https://github.com/strolid/example-vcons/raw/refs/heads/main/5ca2865c-5388-4a8d-9480-ad055ce65fa5.mp3",
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-16kHz-en-105s-noerr.mp3",
       "meta": {
         "direction": "in",
         "disposition": "ANSWERED"
@@ -17,7 +17,7 @@
         0
       ],
       "duration": 105.192,
-      "filename": "5ca2865c-5388-4a8d-9480-ad055ce65fa5.mp3",
+      "filename": "2-speakers-16kHz-en-105s-noerr.mp3",
       "mimetype": "audio/mp3",
       "signature": "cD-1McPHAu3wD-TASyvlnQdDlpWcsdSUFx3Jr-XVtaXhpnszIkKspK5-ZRXMXBG9-PoRRxnN0Kb8QdemdZZQMw"
     }
@@ -73,7 +73,7 @@
         },
         {
           "speaker": "Agent",
-          "message": "I see, I\u2019m sorry to hear you're having issues with your system. Data management can indeed be tricky. Before we dive deeper, may I have your full name, please?"
+          "message": "I see, I’m sorry to hear you're having issues with your system. Data management can indeed be tricky. Before we dive deeper, may I have your full name, please?"
         },
         {
           "speaker": "Customer",
@@ -97,11 +97,11 @@
         },
         {
           "speaker": "Agent",
-          "message": "Understood. I\u2019ll start by running a system check to identify discrepancies and then align the data accordingly. This might take a few minutes. Can I put you on a brief hold?"
+          "message": "Understood. I’ll start by running a system check to identify discrepancies and then align the data accordingly. This might take a few minutes. Can I put you on a brief hold?"
         },
         {
           "speaker": "Customer",
-          "message": "Yes, that\u2019s fine. Thank you for helping me with this."
+          "message": "Yes, that’s fine. Thank you for helping me with this."
         },
         {
           "speaker": "Agent",
@@ -121,7 +121,7 @@
         },
         {
           "speaker": "Customer",
-          "message": "No, that\u2019s everything for now. I really appreciate your help, Nicholas."
+          "message": "No, that’s everything for now. I really appreciate your help, Nicholas."
         },
         {
           "speaker": "Agent",

@@ -5,7 +5,7 @@
   "dialog": [
     {
       "alg": "SHA-512",
-      "url": "https://github.com/strolid/example-vcons/raw/refs/heads/main/255c444c-bbad-41af-a38a-265f64c7c37a.mp3",
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-16kHz-en-104s-noerr.mp3",
       "meta": {
         "direction": "in",
         "disposition": "ANSWERED"
@@ -17,7 +17,7 @@
         0
       ],
       "duration": 104.4,
-      "filename": "255c444c-bbad-41af-a38a-265f64c7c37a.mp3",
+      "filename": "2-speakers-16kHz-en-104s-noerr.mp3",
       "mimetype": "audio/mp3",
       "signature": "ioaIm_jUKhzShCobCOSAyzRabwMuTPH1z8Bw-QJ7QxpgYgRIZOqYsHFdylYIEKkqN2VVtKC8zNhJvSGVoNdlPg"
     }

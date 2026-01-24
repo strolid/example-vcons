@@ -1,0 +1,172 @@
+{
+  "type": "wtf_transcription",
+  "encoding": "json",
+  "start": "2026-01-19T18:28:18.264226+00:00",
+  "dialog": 0,
+  "body": {
+    "transcript": {
+      "text": "Good morning! This is Ryan Torres from Majestic Furniture Solutions. How can I assist you today? Hi, I'm Barbara Hill. I've been waiting for my couch to be delivered for over three weeks now, and it's still not here. I'm very frustrated. I understand your concern, Barbara. Let me apologize for the delay and any inconvenience it has caused you. Can I get your order number and the date of purchase, please, to look into this issue? Certainly. The order number is A123BC456 and I purchased it on the fifth of June. Thank you, Barbara. Give me a moment to check the details of your shipping status. I\u2019ve checked the details, and it seems there was a mix-up with the shipping company. We will resolve this issue and ensure your couch is delivered by the end of this week. Thank you, Ryan. I just want to make sure I'm not going to be charged for the shipping due to this delay. I assure you, Barbara, you will not be charged for the shipping. We will take care of all the necessary adjustments. I appreciate that, Ryan. Thank you for your help. You're welcome, Barbara. Is there anything else I can assist you with today? No, that's it. Thank you for resolving this so quickly. It's my pleasure. Thank you for calling Majestic Furniture Solutions. Have a great day, Barbara! You too, Ryan. Goodbye.",
+      "language": "en-US",
+      "duration": 79.08,
+      "confidence": 0.95
+    },
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 5.913,
+        "text": "Good morning! This is Ryan Torres from Majestic Furniture Solutions. How can I assist you today?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 1,
+        "start": 5.913,
+        "end": 14.535,
+        "text": "Hi, I'm Barbara Hill. I've been waiting for my couch to be delivered for over three weeks now, and it's still not here. I'm very frustrated.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 2,
+        "start": 14.535,
+        "end": 26.483,
+        "text": "I understand your concern, Barbara. Let me apologize for the delay and any inconvenience it has caused you. Can I get your order number and the date of purchase, please, to look into this issue?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 3,
+        "start": 26.483,
+        "end": 31.472,
+        "text": "Certainly. The order number is A123BC456 and I purchased it on the fifth of June.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 4,
+        "start": 31.472,
+        "end": 36.522,
+        "text": "Thank you, Barbara. Give me a moment to check the details of your shipping status.",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 5,
+        "start": 36.522,
+        "end": 47.054,
+        "text": "I\u2019ve checked the details, and it seems there was a mix-up with the shipping company. We will resolve this issue and ensure your couch is delivered by the end of this week.",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 6,
+        "start": 47.054,
+        "end": 53.521,
+        "text": "Thank you, Ryan. I just want to make sure I'm not going to be charged for the shipping due to this delay.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 7,
+        "start": 53.521,
+        "end": 60.665,
+        "text": "I assure you, Barbara, you will not be charged for the shipping. We will take care of all the necessary adjustments.",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 8,
+        "start": 60.665,
+        "end": 63.683,
+        "text": "I appreciate that, Ryan. Thank you for your help.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 9,
+        "start": 63.683,
+        "end": 68.364,
+        "text": "You're welcome, Barbara. Is there anything else I can assist you with today?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 10,
+        "start": 68.364,
+        "end": 71.751,
+        "text": "No, that's it. Thank you for resolving this so quickly.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 11,
+        "start": 71.751,
+        "end": 77.663,
+        "text": "It's my pleasure. Thank you for calling Majestic Furniture Solutions. Have a great day, Barbara!",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 12,
+        "start": 77.663,
+        "end": 79.08,
+        "text": "You too, Ryan. Goodbye.",
+        "confidence": 0.95,
+        "speaker": 1
+      }
+    ],
+    "metadata": {
+      "created_at": "2026-01-19T18:28:18.264226+00:00",
+      "processed_at": "2026-01-19T18:28:18.264226+00:00",
+      "provider": "vfun",
+      "model": "vcon-extracted",
+      "audio": {
+        "duration": 79.08,
+        "sample_rate": 16000,
+        "channels": 1,
+        "format": "mp3"
+      },
+      "source_vcon": "19fc2df9-d3cb-423d-a285-467976a6b17c"
+    },
+    "quality": {
+      "audio_quality": "high",
+      "multiple_speakers": true,
+      "overlapping_speech": false,
+      "average_confidence": 0.95,
+      "low_confidence_words": 0,
+      "processing_warnings": []
+    },
+    "speakers": {
+      "0": {
+        "id": 0,
+        "label": "Agent",
+        "segments": [
+          0,
+          2,
+          4,
+          5,
+          7,
+          9,
+          11
+        ],
+        "total_time": 51.18,
+        "confidence": 0.95
+      },
+      "1": {
+        "id": 1,
+        "label": "Customer",
+        "segments": [
+          1,
+          3,
+          6,
+          8,
+          10,
+          12
+        ],
+        "total_time": 27.9,
+        "confidence": 0.95
+      }
+    }
+  }
+}

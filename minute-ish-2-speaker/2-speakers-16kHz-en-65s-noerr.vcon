@@ -5,7 +5,7 @@
   "dialog": [
     {
       "alg": "SHA-512",
-      "url": "https://github.com/strolid/example-vcons/raw/refs/heads/main/1ba06c0c-97ea-439f-8691-717ef86e4f3e.mp3",
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-16kHz-en-65s-noerr.mp3",
       "meta": {
         "direction": "in",
         "disposition": "ANSWERED"
@@ -17,7 +17,7 @@
         0
       ],
       "duration": 65.088,
-      "filename": "1ba06c0c-97ea-439f-8691-717ef86e4f3e.mp3",
+      "filename": "2-speakers-16kHz-en-65s-noerr.mp3",
       "mimetype": "audio/mp3",
       "signature": "7KCqShN7J4d970dKolWT-GX2emVwrx6WFHItMFSOQrFAkI0UrpjmRpoHKJC3NxSErrbKBdWtd8TfELGDX69Xkw"
     }
@@ -97,7 +97,7 @@
         },
         {
           "speaker": "Agent",
-          "message": "It's my pleasure, Martha. We\u2019ll make sure to update you as soon as we've fixed the issue. Is there anything else I can help you with today?"
+          "message": "It's my pleasure, Martha. We’ll make sure to update you as soon as we've fixed the issue. Is there anything else I can help you with today?"
         },
         {
           "speaker": "Customer",

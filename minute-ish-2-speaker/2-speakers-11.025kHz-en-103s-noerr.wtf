@@ -1,0 +1,190 @@
+{
+  "type": "wtf_transcription",
+  "encoding": "json",
+  "start": "2026-01-19T18:28:18.253283+00:00",
+  "dialog": 0,
+  "body": {
+    "transcript": {
+      "text": "Good morning! This is Charles Carter from Blossom Boutique, how may I assist you today? Hi Charles, my name is Christine Sanders. I recently ordered a bouquet from your store, and I'm sad to say the flowers didn't quite meet my expectations. I'm sorry to hear that, Christine. We always aim for the highest quality with our products. Could you please provide me with your order number and the date of delivery so I can look into this for you? Sure, the order number is F-zero four two one BC and the delivery date was April second. Thank you, Christine. I have your order details now. Could you describe the issue with the product quality? Yes, several of the flowers were wilting and the arrangement did not look fresh. It was quite disappointing. I understand how that could be disappointing, and I apologize for the inconvenience. We strive for excellence and this certainly doesn't align with our standards. I will report this to our quality control team right away. To make this right, we can offer you a full refund or send a new arrangement. Which would you prefer? I would appreciate a new arrangement, thank you. Absolutely, Christine. We\u2019ll send a new arrangement out to you with our sincerest apologies. Expect it to arrive by the end of this week. Lastly, for our records and to ensure your satisfaction is monitored, may I have your email address? Of course, it's christine.s@example.com. Great, I have updated our records. Thank you for bringing this to our attention, Christine. Is there anything else I can assist you with today? No, that will be all. Thank you for handling this so promptly, Charles. It's my pleasure, Christine. Thank you for your time and for choosing Blossom Boutique. Have a great day!",
+      "language": "en-US",
+      "duration": 103.056,
+      "confidence": 0.95
+    },
+    "segments": [
+      {
+        "id": 0,
+        "start": 0.0,
+        "end": 5.246,
+        "text": "Good morning! This is Charles Carter from Blossom Boutique, how may I assist you today?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 1,
+        "start": 5.246,
+        "end": 14.472,
+        "text": "Hi Charles, my name is Christine Sanders. I recently ordered a bouquet from your store, and I'm sad to say the flowers didn't quite meet my expectations.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 2,
+        "start": 14.472,
+        "end": 26.533,
+        "text": "I'm sorry to hear that, Christine. We always aim for the highest quality with our products. Could you please provide me with your order number and the date of delivery so I can look into this for you?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 3,
+        "start": 26.533,
+        "end": 31.839,
+        "text": "Sure, the order number is F-zero four two one BC and the delivery date was April second.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 4,
+        "start": 31.839,
+        "end": 38.292,
+        "text": "Thank you, Christine. I have your order details now. Could you describe the issue with the product quality?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 5,
+        "start": 38.292,
+        "end": 44.804,
+        "text": "Yes, several of the flowers were wilting and the arrangement did not look fresh. It was quite disappointing.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 6,
+        "start": 44.804,
+        "end": 58.131,
+        "text": "I understand how that could be disappointing, and I apologize for the inconvenience. We strive for excellence and this certainly doesn't align with our standards. I will report this to our quality control team right away.",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 7,
+        "start": 58.131,
+        "end": 64.222,
+        "text": "To make this right, we can offer you a full refund or send a new arrangement. Which would you prefer?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 8,
+        "start": 64.222,
+        "end": 67.116,
+        "text": "I would appreciate a new arrangement, thank you.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 9,
+        "start": 67.116,
+        "end": 75.377,
+        "text": "Absolutely, Christine. We\u2019ll send a new arrangement out to you with our sincerest apologies. Expect it to arrive by the end of this week.",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 10,
+        "start": 75.377,
+        "end": 81.408,
+        "text": "Lastly, for our records and to ensure your satisfaction is monitored, may I have your email address?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 11,
+        "start": 81.408,
+        "end": 83.82,
+        "text": "Of course, it's christine.s@example.com.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 12,
+        "start": 83.82,
+        "end": 92.443,
+        "text": "Great, I have updated our records. Thank you for bringing this to our attention, Christine. Is there anything else I can assist you with today?",
+        "confidence": 0.95,
+        "speaker": 0
+      },
+      {
+        "id": 13,
+        "start": 92.443,
+        "end": 96.724,
+        "text": "No, that will be all. Thank you for handling this so promptly, Charles.",
+        "confidence": 0.95,
+        "speaker": 1
+      },
+      {
+        "id": 14,
+        "start": 96.724,
+        "end": 103.056,
+        "text": "It's my pleasure, Christine. Thank you for your time and for choosing Blossom Boutique. Have a great day!",
+        "confidence": 0.95,
+        "speaker": 0
+      }
+    ],
+    "metadata": {
+      "created_at": "2026-01-19T18:28:18.253283+00:00",
+      "processed_at": "2026-01-19T18:28:18.253283+00:00",
+      "provider": "vfun",
+      "model": "vcon-extracted",
+      "audio": {
+        "duration": 103.056,
+        "sample_rate": 16000,
+        "channels": 1,
+        "format": "mp3"
+      },
+      "source_vcon": "fbb909fa-36fc-467e-8e64-2e9a665ed1ce"
+    },
+    "quality": {
+      "audio_quality": "high",
+      "multiple_speakers": true,
+      "overlapping_speech": false,
+      "average_confidence": 0.95,
+      "low_confidence_words": 0,
+      "processing_warnings": []
+    },
+    "speakers": {
+      "0": {
+        "id": 0,
+        "label": "Agent",
+        "segments": [
+          0,
+          2,
+          4,
+          6,
+          7,
+          9,
+          10,
+          12,
+          14
+        ],
+        "total_time": 72.425,
+        "confidence": 0.95
+      },
+      "1": {
+        "id": 1,
+        "label": "Customer",
+        "segments": [
+          1,
+          3,
+          5,
+          8,
+          11,
+          13
+        ],
+        "total_time": 30.631,
+        "confidence": 0.95
+      }
+    }
+  }
+}

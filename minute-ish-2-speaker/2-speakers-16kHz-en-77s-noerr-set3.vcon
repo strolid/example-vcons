@@ -5,7 +5,7 @@
   "dialog": [
     {
       "alg": "SHA-512",
-      "url": "https://github.com/strolid/example-vcons/raw/refs/heads/main/dad32973-4e2f-4da3-8f88-5126b2fec3d4.mp3",
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-16kHz-en-77s-noerr-set3.mp3",
       "meta": {
         "direction": "in",
         "disposition": "ANSWERED"
@@ -17,7 +17,7 @@
         0
       ],
       "duration": 76.992,
-      "filename": "dad32973-4e2f-4da3-8f88-5126b2fec3d4.mp3",
+      "filename": "2-speakers-16kHz-en-77s-noerr-set3.mp3",
       "mimetype": "audio/mp3",
       "signature": "SGp64dUOH0ie2RU57W-Pu8pN6YBqIXKNKG7EVXb5ATsKw4X7KiHpSdCayPZ49r3yA17RTTpO9yDBMlyL4_VxAQ"
     }
@@ -85,7 +85,7 @@
         },
         {
           "speaker": "Customer",
-          "message": "Yes, of course. The staff was actually very friendly, but my order was mixed up with someone else\u2019s. It was resolved quickly, but I just wanted to mention it."
+          "message": "Yes, of course. The staff was actually very friendly, but my order was mixed up with someone else’s. It was resolved quickly, but I just wanted to mention it."
         },
         {
           "speaker": "Agent",
