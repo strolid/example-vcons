@@ -1,0 +1,10 @@
+{
+  "uuid": "19d7f4b1-1b5e-48ce-b172-fec0285db3ce",
+  "dialog": [
+    {
+      "type": "recording",
+      "mimetype": "audio/flac",
+      "url": "https://raw.githubusercontent.com/strolid/example-vcons/main/minute-ish-2-speaker/2-speakers-16kHz-en-95s-noerr.flac"
+    }
+  ]
+}
